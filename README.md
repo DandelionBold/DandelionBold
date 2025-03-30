@@ -3,8 +3,7 @@
 
 <!-- Centered Personal Info -->
 <p align="center">
-  <h1 align="center">🧑🏻‍💻 I'm Kamal Nady</h2>
-  <p align="center">💻 Software Engineer from Alexandria, Egypt</p>
+  <p align="center">🧑🏻‍💻 Software Engineer from Alexandria, Egypt</p>
   <p align="center">
     📧 <a href="mailto:kamalnadykamal@gmail.com">kamalnadykamal@gmail.com</a> • 
     📍 Alexandria, Egypt
