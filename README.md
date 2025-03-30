@@ -3,12 +3,12 @@
 
 <!-- Centered Personal Info -->
 <p align="center">
-  <p align="center">🧑🏻‍💻 Software Engineer from Alexandria, Egypt</p>
+  <h1 align="center">🧑🏻‍💻 Software Engineer</h1>
   <p align="center">
     📧 <a href="mailto:kamalnadykamal@gmail.com">kamalnadykamal@gmail.com</a> • 
     📍 Alexandria, Egypt
   </p>
-  <h3 align="center">ℹ️ About Me (<a href="./Kamal%20Nady%20Kamal%20CV.pdf" target="_blank">View My CV</a>)</h1>
+  <!-- <h3 align="center">ℹ️ About Me (<a href="./Kamal%20Nady%20Kamal%20CV.pdf" target="_blank">View My CV</a>)</h1> -->
   <p align="center">
     <a href="https://www.linkedin.com/in/kamal-nady"><img src="./images/linkedin.svg" width="24"/></a>&nbsp;
     <a href="https://github.com/DandelionBold"><img src="./images/github.svg" width="24"/></a>
