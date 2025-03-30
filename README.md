@@ -15,7 +15,6 @@
   </p>
 </p>
 
----
 <!-- GitHub Snake -->
 <div align="center">
   <picture>
