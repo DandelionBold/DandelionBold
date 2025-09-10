@@ -66,7 +66,7 @@
 
 ---
 
-## 📊 GitHub Stats & Activity  
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 
@@ -82,7 +82,7 @@
       </td>
       <td>
         <img
-          src="https://github-readme-streak-stats.herokuapp.com?user=DandelionBold&hide_border=true&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&background=0c002e&sideLabels=0cffd2&dates=1495ff&fire=1495ff&currStreakLabel=0cffd2&currStreakNum=0cffd2"
+          src="https://github-readme-streak-stats.herokuapp.com?user=DandelionBold&hide_border=true&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&background=0c002e&sideLabels=0CFFD2&dates=1495ff&fire=1495ff&currStreakLabel=0CFFD2&currStreakNum=0CFFD2"
           alt="DandelionBold GitHub Streak"
           height="155"
         />
@@ -103,26 +103,23 @@
 ### 📈 Contribution Graph (activity heatmap)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DandelionBold&theme=tokyo-night" alt="Contribution Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=DandelionBold&bg_color=0c002e&color=0CFFD2&line=f65ee0&point=1495ff&area=true&hide_border=true"
+    alt="Contribution Graph"
+  />
 </p>
 
 ---
 
-### 🧾 Contribution Summary Cards  
-
-<!-- Contribution Summary Card -->
+### 🧾 Contribution Summary Cards
+<!-- Note: this generator doesn't accept per-color hex params; using closest theme -->
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DandelionBold&theme=tokyonight"
-    alt="Contribution Summary"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DandelionBold&theme=tokyonight" alt="Contribution Summary" />
 </p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DandelionBold&theme=tokyonight" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DandelionBold&theme=tokyonight&utcOffset=8" alt="Commits per Day" />
 </p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DandelionBold&theme=tokyonight" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DandelionBold&theme=tokyonight" alt="Most Commit Language" />
@@ -130,8 +127,8 @@
 
 ---
 
-### 🏆 GitHub Trophies  
-
+### 🏆 GitHub Trophies
+<!-- Note: trophies also doesn't support custom hex; 'dracula' is the closest look -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DandelionBold&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
