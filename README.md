@@ -241,9 +241,9 @@ if __name__ == '__main__':
     print(f"Logging in with password: {profile.password} (definitely not hardcoded)") 
 ```
 
-<hr>
 </details>
----
+
+<hr>
 
 ### 
 <summary align="center"><h2>✨ Random Quote:</h2></summary>
