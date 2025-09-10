@@ -235,25 +235,67 @@ if __name__ == '__main__':
 </a>
 
 <details open>
-  <summary><h3 align="center">📊 GitHub Stats</h3></summary>
+  <summary>📊 GitHub Stats</summary>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&title_color=f65ee0&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=DandelionBold&hide_border=true&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&background=0c002e&sideLabels=0CFFD2&dates=1495ff&fire=1495ff&currStreakLabel=0CFFD2&currStreakNum=0CFFD2" />
+
+  <h3>📊 GitHub Stats</h3>
+
+  <!-- Stats + Streak (side-by-side) -->
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&title_color=f65ee0&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e"
+          alt="DandelionBold GitHub Stats" height="155"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-readme-streak-stats.herokuapp.com?user=DandelionBold&hide_border=true&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&background=0c002e&sideLabels=0CFFD2&dates=1495ff&fire=1495ff&currStreakLabel=0CFFD2&currStreakNum=0CFFD2"
+          alt="DandelionBold GitHub Streak" height="155"
+        />
+      </td>
+    </tr>
+  </table>
+
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=compact&hide_border=true&bg_color=0c002e&title_color=f65ee0&text_color=0CFFD2&icon_color=1495ff&langs_count=10"
+    alt="Top Languages"
+  />
   </div>
 </details>
 
 <details open>
-  <summary><h3 align="center">🏆 GitHub Trophies</h3></summary>
+  <summary>📈 Contribution Graph</summary>
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=DandelionBold&theme=dracula&margin-w=15&margin-h=15" />
+    <h3>📈 Contribution Graph</h3>
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=DandelionBold&bg_color=0c002e&color=0CFFD2&line=f65ee0&point=1495ff&area=true&hide_border=true"
+      alt="Contribution Graph"
+    />
   </div>
 </details>
 
 <details open>
-  <summary><h3 align="center">📈 Contribution Graph</h3></summary>
+  <summary>🧾 Contribution Summary Cards</summary>
   <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DandelionBold&bg_color=0c002e&color=0CFFD2&line=f65ee0&point=1495ff&area=true&hide_border=true" />
+    <h3>🧾 Contribution Summary Cards</h3>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DandelionBold&theme=tokyonight" alt="Contribution Summary" />
+    <br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DandelionBold&theme=tokyonight" alt="Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DandelionBold&theme=tokyonight&utcOffset=8" alt="Commits per Day" />
+    <br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DandelionBold&theme=tokyonight" alt="Repos per Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DandelionBold&theme=tokyonight" alt="Most Commit Language" />
   </div>
 </details>
 
+<details open>
+  <summary>🏆 GitHub Trophies</summary>
+  <div align="center">
+    <h3>🏆 GitHub Trophies</h3>
+    <img src="https://github-profile-trophy.vercel.app/?username=DandelionBold&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </div>
+</details>
 
