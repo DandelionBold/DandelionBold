@@ -129,27 +129,6 @@
 </p>
 
 
-
-<br/>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=DandelionBold&bg_color=0c002e&color=0CFFD2&line=f65ee0&point=1495ff&area=true&hide_border=true"
-    alt="Contribution Graph"
-  />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=DandelionBold&theme=dracula&margin-w=15&margin-h=15"
-    alt="GitHub Trophies"
-  />
-</p>
-
 ---
 
 ```python
