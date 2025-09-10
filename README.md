@@ -145,9 +145,11 @@
     <img src="https://github-profile-trophy.vercel.app/?username=DandelionBold&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </p>
 </div>
+<hr>
 </details>
 
-<hr>
+<details open>
+<summary align="center"><h2>👉 About me 👈</h2></summary>
 
 ```python
 from life import Creativity
@@ -239,11 +241,16 @@ if __name__ == '__main__':
     print(f"Logging in with password: {profile.password} (definitely not hardcoded)") 
 ```
 
+<hr>
+</details>
 ---
 
-### ✨ Random Quote:
-<a href="https://github.com/piyushsuthar/github-readme-quotes">
-  <img alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in&quoteCategory=programming?border=true">
-</a>
+### 
+<summary align="center"><h2>✨ Random Quote:</h2></summary>
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in&quoteCategory=programming?border=true">
+  </a>
+</div>
 
 
