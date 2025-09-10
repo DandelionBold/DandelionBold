@@ -66,7 +66,6 @@
 
 <br>
 <hr>
----
 
 <details open>
 <summary align="center"><h2>📊 GitHub Stats & Activity</h2></summary>
@@ -101,8 +100,7 @@
 </div>
 </details>
 
-<br>
----
+<hr>
 
 ### 📈 Contribution Graph (activity heatmap)
 
