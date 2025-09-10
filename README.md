@@ -231,3 +231,48 @@ if __name__ == '__main__':
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
   <img alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in&quoteCategory=programming?border=true">
 </a>
+
+
+
+---
+
+<!-- Requires WakaTime + a small GitHub Action on your repo -->
+<!-- Badge -->
+<img src="https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg" alt="WakaTime badge" />
+
+<!-- Weekly coding stats card -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&hide_border=true&bg_color=0c002e&title_color=f65ee0&text_color=0CFFD2&icon_color=1495ff" />
+
+
+<!-- LeetCode -->
+<img src="https://leetcode.card.workers.dev/DandelionBold?theme=dark&font=baloo&extension=activity" />
+
+<!-- Codewars -->
+<img src="https://www.codewars.com/users/DandelionBold/badges/large" alt="Codewars badge" />
+
+
+<!-- Repo star history -->
+<img src="https://starchart.cc/DandelionBold/REPO_NAME.svg" alt="Star History" />
+
+<!-- Example image output -->
+<img src="https://raw.githubusercontent.com/DandelionBold/DandelionBold/main/metrics.classic.svg" alt="Metrics" />
+
+<!-- Stars, followers, following -->
+<img src="https://img.shields.io/github/stars/DandelionBold?style=social" />
+<img src="https://img.shields.io/github/followers/DandelionBold?style=social" />
+
+<!-- X(Twitter) followers -->
+<img src="https://img.shields.io/twitter/follow/YOUR_X_HANDLE?style=social" />
+
+<!-- NPM / PyPI / Docker (pick what you use) -->
+<img src="https://img.shields.io/npm/dm/YOUR_PACKAGE" />
+<img src="https://img.shields.io/pypi/dm/YOUR_PACKAGE" />
+<img src="https://img.shields.io/docker/pulls/YOUR_IMAGE" />
+
+<a href="https://stackoverflow.com/users/YOUR_ID">
+  <img src="https://stackoverflow.com/users/flair/YOUR_ID.png" alt="StackOverflow profile" />
+</a>
+
+<!-- Profile views you already added; this one shows a world map of visitors -->
+<img src="https://visitcount.itsvg.in/api?id=DandelionBold&icon=5&color=6" />
+
