@@ -88,6 +88,14 @@
 
 ---
 
+### 📈 Contribution Graph (activity heatmap)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DandelionBold&theme=tokyo-night" alt="Contribution Graph" />
+</p>
+
+---
+
 ```python
 from life import Creativity
 import os  # obviously secure, right? 😅
