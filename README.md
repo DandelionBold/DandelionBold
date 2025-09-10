@@ -69,15 +69,15 @@
 ## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DandelionBold&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DandelionBold&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -85,7 +85,7 @@
 ### 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DandelionBold&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DandelionBold&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -93,7 +93,7 @@
 ### 📈 Contribution Graph (activity heatmap)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DandelionBold&theme=radical" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DandelionBold&theme=tokyo-night" alt="Contribution Graph" />
 </p>
 
 ---
@@ -101,17 +101,17 @@
 ### 🧾 Contribution Summary Cards  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DandelionBold&theme=radical" alt="Contribution Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DandelionBold&theme=tokyonight" alt="Contribution Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DandelionBold&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DandelionBold&theme=radical&utcOffset=8" alt="Commits per Day" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DandelionBold&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DandelionBold&theme=tokyonight&utcOffset=8" alt="Commits per Day" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DandelionBold&theme=radical" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DandelionBold&theme=radical" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DandelionBold&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DandelionBold&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
 ---
