@@ -50,21 +50,28 @@
 | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white) | ![DevOps](https://img.shields.io/badge/DevOps-007ACC?logo=azuredevops&logoColor=white) | ![REST APIs](https://img.shields.io/badge/REST%20APIs-4285F4?logo=swagger&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-6DB33F?logo=docker&logoColor=white) ![Monolithic](https://img.shields.io/badge/Monolithic-333333?logo=server&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000?logo=jwt&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white) |
 
 ---
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<div align="center">
-  <h3>🚀 Projects</h3>
-  <div align="left">
-    - 🧠 **CodeSpy (Graduation Project)** – LMS + Code Plagiarism Detection  
-    - 🏫 **Saint-Stephen School Management System**  
-    - 🤖 **Rubik’s Cube Solver Robot**  
-    - 🎮 **XO-playing Smart Robotic Arm**  
-    - 🧠 **GAN-based Face Generator**  
-    - 💰 **Customer Bank Simulation**  
-    - 🏥 **Hospital Management System**  
-    - 🩸 **Blood Donation GUI**
-  </div>  
-</div>
+  <table>
+    <tr>
+      <td>
+        <div align="center">
+          <h3>🚀 Projects</h3>
+        </div>
+        <div align="left">
+          - 🧠 **CodeSpy (Graduation Project)** – LMS + Code Plagiarism Detection  
+          - 🏫 **Saint-Stephen School Management System**  
+          - 🤖 **Rubik’s Cube Solver Robot**  
+          - 🎮 **XO-playing Smart Robotic Arm**  
+          - 🧠 **GAN-based Face Generator**  
+          - 💰 **Customer Bank Simulation**  
+          - 🏥 **Hospital Management System**  
+          - 🩸 **Blood Donation GUI**
+        </div>  
+      </td>
+      <td>
+        <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+      </td>
+    </tr>
+  </table>
 <br>
 ---
 
