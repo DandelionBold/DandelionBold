@@ -141,8 +141,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=DandelionBold&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </p>
 </div>
-<hr>
 </details>
+
+<hr>
 
 ```python
 from life import Creativity
