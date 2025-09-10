@@ -234,12 +234,26 @@ if __name__ == '__main__':
   <img alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in&quoteCategory=programming?border=true">
 </a>
 
-<details>
-  <summary>📊 GitHub Stats</summary>
-
-  <p align="center">
+<details open>
+  <summary><h3 align="center">📊 GitHub Stats</h3></summary>
+  <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&title_color=f65ee0&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e" />
-  </p>
-
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=DandelionBold&hide_border=true&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&background=0c002e&sideLabels=0CFFD2&dates=1495ff&fire=1495ff&currStreakLabel=0CFFD2&currStreakNum=0CFFD2" />
+  </div>
 </details>
+
+<details open>
+  <summary><h3 align="center">🏆 GitHub Trophies</h3></summary>
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=DandelionBold&theme=dracula&margin-w=15&margin-h=15" />
+  </div>
+</details>
+
+<details open>
+  <summary><h3 align="center">📈 Contribution Graph</h3></summary>
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DandelionBold&bg_color=0c002e&color=0CFFD2&line=f65ee0&point=1495ff&area=true&hide_border=true" />
+  </div>
+</details>
+
 
