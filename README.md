@@ -54,15 +54,16 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <div align="center">
   <h3>🚀 Projects</h3>
-  - 🧠 **CodeSpy (Graduation Project)** – LMS + Code Plagiarism Detection  
-  - 🏫 **Saint-Stephen School Management System**  
-  - 🤖 **Rubik’s Cube Solver Robot**  
-  - 🎮 **XO-playing Smart Robotic Arm**  
-  - 🧠 **GAN-based Face Generator**  
-  - 💰 **Customer Bank Simulation**  
-  - 🏥 **Hospital Management System**  
-  - 🩸 **Blood Donation GUI**
-  
+  <div align="left">
+    - 🧠 **CodeSpy (Graduation Project)** – LMS + Code Plagiarism Detection  
+    - 🏫 **Saint-Stephen School Management System**  
+    - 🤖 **Rubik’s Cube Solver Robot**  
+    - 🎮 **XO-playing Smart Robotic Arm**  
+    - 🧠 **GAN-based Face Generator**  
+    - 💰 **Customer Bank Simulation**  
+    - 🏥 **Hospital Management System**  
+    - 🩸 **Blood Donation GUI**
+  </div>  
 </div>
 <br>
 ---
