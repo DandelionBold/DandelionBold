@@ -92,6 +92,10 @@
   </table>
 
   <!-- Top Languages -->
+  <!--
+    Most Used Languages = based on file sizes.
+    Top Languages by Repo = based on repo count.
+  -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=compact&hide_border=true&bg_color=0c002e&title_color=f65ee0&text_color=0CFFD2&icon_color=1495ff&langs_count=10"
     alt="Top Languages"
