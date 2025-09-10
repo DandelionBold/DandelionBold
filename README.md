@@ -235,7 +235,7 @@ if __name__ == '__main__':
 </a>
 
 <details open>
-  <summary><h2>📊 GitHub Stats</h2></summary>
+  <summary align="center"><h2>📊 GitHub Stats</h2></summary>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&title_color=f65ee0&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e" />
   </div>
