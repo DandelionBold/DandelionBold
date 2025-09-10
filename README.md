@@ -15,6 +15,32 @@
     <img src="https://img.shields.io/github/stars/DandelionBold?style=social" alt="GitHub stars" />
     &nbsp;&nbsp;
     <img src="https://img.shields.io/github/followers/DandelionBold?style=social" />
+    &nbsp;&nbsp;
+    <!-- DARK MODE -->
+    <a href="https://gh-most-followed.pages.dev/egypt#gh-dark-mode-only">
+      <img src="https://img.shields.io/badge/dynamic/json?label=&query=%24.rank&suffix=%20Most%20Followed%20User%20In%20Egypt&logo=github&style=for-the-badge&color=555&labelColor=333&url=https://gh-most-followed-api.up.railway.app/rank/egypt/DandelionBold" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://kounter.kerolloz.dev#gh-dark-mode-only">
+      <img src="https://kounter.kerolloz.dev/badge/DandelionBold?label=&color=white&style=for-the-badge&cntSuffix=%20Views&silent=true" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://aktive.kerolloz.dev#gh-dark-mode-only">
+      <img src="https://img.shields.io/badge/dynamic/json?label=&query=%24.rank&suffix=%20Most%20Active%20User%20in%20Egypt&logo=github&style=for-the-badge&color=555&labelColor=333&url=https://aktive.kerolloz.dev/rank/egypt/DandelionBold" />
+    </a>
+    &nbsp;&nbsp;  
+    <!-- LIGHT MODE -->
+    <a href="https://gh-most-followed.pages.dev/egypt#gh-light-mode-only">
+      <img src="https://img.shields.io/badge/dynamic/json?label=Most%20Followed%20User%20in%20Egypt&query=%24.rank&prefix=Rank%20&logo=github&style=for-the-badge&color=grey&labelColor=333&url=https://gh-most-followed-api.up.railway.app/rank/egypt/DandelionBold" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://kounter.kerolloz.dev#gh-light-mode-only">
+      <img src="https://kounter.kerolloz.dev/badge/DandelionBold?label=&color=grey&style=for-the-badge&cntSuffix=%20Views" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://aktive.kerolloz.dev#gh-light-mode-only">
+      <img src="https://img.shields.io/badge/dynamic/json?label=Most%20Active%20User%20in%20Egypt&query=%24.rank&prefix=Rank%20&logo=github&style=for-the-badge&color=grey&labelColor=333&url=https://aktive.kerolloz.dev/rank/egypt/DandelionBold" />
+    </a>
   </p>
   <!-- <h3 align="center">ℹ️ About Me (<a href="./Kamal%20Nady%20Kamal%20CV.pdf" target="_blank">View My CV</a>)</h1> -->
   <p align="center">
