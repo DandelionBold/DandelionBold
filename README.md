@@ -96,6 +96,11 @@
     alt="Top Languages"
   />
 
+  <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DandelionBold&theme=tokyonight" alt="Contribution Summary" />
+</p>
+
+
 </div>
 
 <br/>
