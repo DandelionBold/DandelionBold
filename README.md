@@ -98,9 +98,9 @@
   />
 
 </div>
+<hr>
 </details>
 
-<hr>
 
 ### 📈 Contribution Graph (activity heatmap)
 
