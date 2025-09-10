@@ -50,29 +50,22 @@
 | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white) | ![DevOps](https://img.shields.io/badge/DevOps-007ACC?logo=azuredevops&logoColor=white) | ![REST APIs](https://img.shields.io/badge/REST%20APIs-4285F4?logo=swagger&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-6DB33F?logo=docker&logoColor=white) ![Monolithic](https://img.shields.io/badge/Monolithic-333333?logo=server&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000?logo=jwt&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white) |
 
 ---
-  <table>
-    <tr>
-      <td>
-        <div align="center">
-          <h3>🚀 Projects</h3>
-        </div>
-        <div align="left">
-          - 🧠 **CodeSpy (Graduation Project)** – LMS + Code Plagiarism Detection  
-          - 🏫 **Saint-Stephen School Management System**  
-          - 🤖 **Rubik’s Cube Solver Robot**  
-          - 🎮 **XO-playing Smart Robotic Arm**  
-          - 🧠 **GAN-based Face Generator**  
-          - 💰 **Customer Bank Simulation**  
-          - 🏥 **Hospital Management System**  
-          - 🩸 **Blood Donation GUI**
-        </div>  
-      </td>
-      <td>
-        <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-      </td>
-    </tr>
-  </table>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+### 🚀 Projects
+
+- 🧠 **CodeSpy (Graduation Project)** – LMS + Code Plagiarism Detection  
+- 🏫 **Saint-Stephen School Management System**  
+- 🤖 **Rubik’s Cube Solver Robot**  
+- 🎮 **XO-playing Smart Robotic Arm**  
+- 🧠 **GAN-based Face Generator**  
+- 💰 **Customer Bank Simulation**  
+- 🏥 **Hospital Management System**  
+- 🩸 **Blood Donation GUI**
+
 <br>
+
 ---
 
 ## 📊 GitHub Stats & Activity
@@ -242,67 +235,9 @@ if __name__ == '__main__':
 </a>
 
 <details open>
-  <summary>📊 GitHub Stats</summary>
+  <summary><h2>📊 GitHub Stats</h2></summary>
   <div align="center">
-
-  <h3>📊 GitHub Stats</h3>
-
-  <!-- Stats + Streak (side-by-side) -->
-  <table>
-    <tr>
-      <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&title_color=f65ee0&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e"
-          alt="DandelionBold GitHub Stats" height="155"
-        />
-      </td>
-      <td>
-        <img
-          src="https://github-readme-streak-stats.herokuapp.com?user=DandelionBold&hide_border=true&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&background=0c002e&sideLabels=0CFFD2&dates=1495ff&fire=1495ff&currStreakLabel=0CFFD2&currStreakNum=0CFFD2"
-          alt="DandelionBold GitHub Streak" height="155"
-        />
-      </td>
-    </tr>
-  </table>
-
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=compact&hide_border=true&bg_color=0c002e&title_color=f65ee0&text_color=0CFFD2&icon_color=1495ff&langs_count=10"
-    alt="Top Languages"
-  />
-  </div>
-</details>
-
-<details open>
-  <summary>📈 Contribution Graph</summary>
-  <div align="center">
-    <h3>📈 Contribution Graph</h3>
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=DandelionBold&bg_color=0c002e&color=0CFFD2&line=f65ee0&point=1495ff&area=true&hide_border=true"
-      alt="Contribution Graph"
-    />
-  </div>
-</details>
-
-<details open>
-  <summary>🧾 Contribution Summary Cards</summary>
-  <div align="center">
-    <h3>🧾 Contribution Summary Cards</h3>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DandelionBold&theme=tokyonight" alt="Contribution Summary" />
-    <br/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DandelionBold&theme=tokyonight" alt="Stats" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DandelionBold&theme=tokyonight&utcOffset=8" alt="Commits per Day" />
-    <br/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DandelionBold&theme=tokyonight" alt="Repos per Language" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DandelionBold&theme=tokyonight" alt="Most Commit Language" />
-  </div>
-</details>
-
-<details open>
-  <summary>🏆 GitHub Trophies</summary>
-  <div align="center">
-    <h3>🏆 GitHub Trophies</h3>
-    <img src="https://github-profile-trophy.vercel.app/?username=DandelionBold&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&title_color=f65ee0&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e" />
   </div>
 </details>
 
