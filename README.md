@@ -14,7 +14,7 @@
     &nbsp;&nbsp;
     <img src="https://img.shields.io/github/stars/DandelionBold?style=social" alt="GitHub stars" />
     &nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/DandelionBold/DandelionBold/main/metrics.classic.svg" alt="Metrics" />
+    <img src="https://img.shields.io/github/followers/DandelionBold?style=social" />
   </p>
   <!-- <h3 align="center">ℹ️ About Me (<a href="./Kamal%20Nady%20Kamal%20CV.pdf" target="_blank">View My CV</a>)</h1> -->
   <p align="center">
