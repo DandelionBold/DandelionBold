@@ -233,3 +233,13 @@ if __name__ == '__main__':
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
   <img alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in&quoteCategory=programming?border=true">
 </a>
+
+<details>
+  <summary>📊 GitHub Stats</summary>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&title_color=f65ee0&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e" />
+  </p>
+
+</details>
+
