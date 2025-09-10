@@ -12,7 +12,7 @@
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=DandelionBold&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
     &nbsp;&nbsp;
-    <img src="https://komarev.com/ghpvc/?username=DandelionBold&color=green" alt="Profile viewers" />
+    <img src="https://img.shields.io/github/stars/DandelionBold?style=social" alt="GitHub stars" />
   </p>
   <!-- <h3 align="center">ℹ️ About Me (<a href="./Kamal%20Nady%20Kamal%20CV.pdf" target="_blank">View My CV</a>)</h1> -->
   <p align="center">
