@@ -51,9 +51,11 @@
 
 ---
 
+<!-- Image floats to the right -->
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### 🚀 Projects
+<!-- Centered heading -->
+<h2 align="center">🚀 Projects</h2>
 
 - 🧠 **CodeSpy (Graduation Project)** – LMS + Code Plagiarism Detection  
 - 🏫 **Saint-Stephen School Management System**  
@@ -66,6 +68,7 @@
 
 <br>
 <hr>
+
 
 <details open>
 <summary align="center"><h2>📊 GitHub Stats & Activity</h2></summary>
