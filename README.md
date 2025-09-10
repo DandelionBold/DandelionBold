@@ -148,7 +148,7 @@
 <hr>
 </details>
 
-<details open>
+<details closed>
 <summary align="center"><h2>👉 About me 👈</h2></summary>
 
 ```python
@@ -245,7 +245,6 @@ if __name__ == '__main__':
 
 <hr>
 
-### 
 <summary align="center"><h2>✨ Random Quote:</h2></summary>
 <div align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
