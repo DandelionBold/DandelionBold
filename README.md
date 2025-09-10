@@ -8,6 +8,10 @@
     📧 <a href="mailto:kamalnadykamal@gmail.com">kamalnadykamal@gmail.com</a> • 
     📍 Alexandria, Egypt
   </p>
+  <!-- 👀 Profile Views -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=DandelionBold&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </p>
   <!-- <h3 align="center">ℹ️ About Me (<a href="./Kamal%20Nady%20Kamal%20CV.pdf" target="_blank">View My CV</a>)</h1> -->
   <p align="center">
     <a href="https://www.linkedin.com/in/kamal-nady"><img src="./images/linkedin.svg" width="24"/></a>&nbsp;
@@ -80,14 +84,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DandelionBold&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
-
-### 👀 Profile Views  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DandelionBold&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
