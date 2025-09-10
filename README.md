@@ -59,6 +59,8 @@
 <br>
 <br>
 
+---
+
 ```python
 from life import Creativity
 import os  # obviously secure, right? 😅
