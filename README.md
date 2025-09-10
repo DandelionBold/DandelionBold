@@ -246,7 +246,7 @@ if __name__ == '__main__':
 <hr>
 
 <div align="center">
-  <h2 style="border-bottom:none;">✨ Random Quote</h2>  <!-- ❌ Won’t work on GitHub -->
+  <p align="center"><b>✨ Random Quote</b></p>
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
     <img alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in&quoteCategory=programming?border=true">
   </a>
