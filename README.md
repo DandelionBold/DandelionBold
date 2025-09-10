@@ -101,41 +101,48 @@
 <hr>
 </details>
 
+<details open>
+<summary align="center"><h2>📈 Contribution Graph (activity heatmap)</h2></summary>
+<div align="center">
+  <p align="center">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=DandelionBold&bg_color=0c002e&color=0CFFD2&line=f65ee0&point=1495ff&area=true&hide_border=true"
+      alt="Contribution Graph"
+    />
+  </p>
+</div>
+<hr>
+</details>
 
-### 📈 Contribution Graph (activity heatmap)
+<details open>
+<summary align="center"><h2>🧾 Contribution Summary Cards</h2></summary>
+<div align="center">
+  <!-- Note: this generator doesn't accept per-color hex params; using closest theme -->
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DandelionBold&theme=tokyonight" alt="Contribution Summary" />
+  </p>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DandelionBold&theme=tokyonight" alt="Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DandelionBold&theme=tokyonight&utcOffset=8" alt="Commits per Day" />
+  </p>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DandelionBold&theme=tokyonight" alt="Repos per Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DandelionBold&theme=tokyonight" alt="Most Commit Language" />
+  </p>
+</div>
+<hr>
+</details>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=DandelionBold&bg_color=0c002e&color=0CFFD2&line=f65ee0&point=1495ff&area=true&hide_border=true"
-    alt="Contribution Graph"
-  />
-</p>
-
----
-
-### 🧾 Contribution Summary Cards
-<!-- Note: this generator doesn't accept per-color hex params; using closest theme -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DandelionBold&theme=tokyonight" alt="Contribution Summary" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DandelionBold&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DandelionBold&theme=tokyonight&utcOffset=8" alt="Commits per Day" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DandelionBold&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DandelionBold&theme=tokyonight" alt="Most Commit Language" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<!-- Note: trophies also doesn't support custom hex; 'dracula' is the closest look -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DandelionBold&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
+<details open>
+<summary align="center"><h2>🏆 GitHub Trophies</h2></summary>
+<div align="center">
+  <!-- Note: trophies also doesn't support custom hex; 'dracula' is the closest look -->
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=DandelionBold&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </p>
+</div>
+<hr>
+</details>
 
 ```python
 from life import Creativity
