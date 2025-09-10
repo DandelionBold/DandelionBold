@@ -62,32 +62,32 @@
 
 ### 📊 GitHub Stats & Activity  
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DandelionBold&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies  
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula&margin-w=15&margin-h=15" alt="Trophies" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DandelionBold&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### 📈 Profile Views  
+### 👀 Profile Views  
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DandelionBold&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
