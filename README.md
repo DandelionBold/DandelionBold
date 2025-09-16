@@ -72,8 +72,8 @@
 
 <details open>
   <summary>
-    <div align="center" style="display:inline-block;">
-      <h2>📊 GitHub Stats & Activity</h2>
+    <div align="center">
+      <strong>📊 GitHub Stats & Activity</strong>
     </div>
   </summary>
 <div align="center">
