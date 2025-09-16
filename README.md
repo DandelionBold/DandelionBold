@@ -101,8 +101,6 @@
     </tr>
   </table>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
-
   <!-- Top Languages -->
   <!--
     Most Used Languages = based on file sizes.
