@@ -71,7 +71,11 @@
 
 
 <details open>
-<p align="center"><h2>📊 GitHub Stats & Activity</h2></p>
+  <summary>
+    <div align="center">
+      <h2>📊 GitHub Stats & Activity</h2>
+    </div>
+  </summary>
 <div align="center">
   
   <!-- Stats + Streak (side-by-side) -->
