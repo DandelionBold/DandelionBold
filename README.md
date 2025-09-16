@@ -72,9 +72,7 @@
 
 <details open>
   <summary>
-    <div align="center">
-      <h2>📊 GitHub Stats & Activity</h2>
-    </div>
+    <h2 align="center">📊 GitHub Stats & Activity</h2>
   </summary>
 <div align="center">
   
