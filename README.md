@@ -75,24 +75,9 @@
 <div align="center">
   
   <!-- Stats + Streak (side-by-side) -->
-  <table>
-    <tr>
-      <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&title_color=f65ee0&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e"
-          alt="DandelionBold GitHub Stats"
-          height="155"
-        />
-      </td>
-      <td>
-        <img
-          src="https://github-readme-streak-stats.herokuapp.com?user=DandelionBold&hide_border=true&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&background=0c002e&sideLabels=0CFFD2&dates=1495ff&fire=1495ff&currStreakLabel=0CFFD2&currStreakNum=0CFFD2"
-          alt="DandelionBold GitHub Streak"
-          height="155"
-        />
-      </td>
-    </tr>
-  </table>
+| ![DandelionBold GitHub Stats](https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&title_color=f65ee0&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e) | ![DandelionBold GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DandelionBold&hide_border=true&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&background=0c002e&sideLabels=0CFFD2&dates=1495ff&fire=1495ff&currStreakLabel=0CFFD2&currStreakNum=0CFFD2) |
+| --- | --- |
+
 
   <!-- Top Languages -->
   <!--
