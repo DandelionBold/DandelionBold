@@ -32,7 +32,7 @@
   </picture>
 </div>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width="20px"> My Skills
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width="25px"> My Skills
 <p align="center" style="color: gray; font-size: 0.9em;">
   🤓 I know it looks like a lot — but that's what happens when you're a fast learner with a programming obsession 💻⚙️🚀
 </p>
