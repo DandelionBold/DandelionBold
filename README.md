@@ -72,9 +72,9 @@
 
 <details open>
   <summary>
-    <span align="center">
+    <div align="center" style="display:inline-block;">
       <h2>📊 GitHub Stats & Activity</h2>
-    </span>
+    </div>
   </summary>
 <div align="center">
   
