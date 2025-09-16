@@ -154,7 +154,7 @@
 </details>
 
 <details closed>
-<summary align="center"><h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f449_1f3fc/512.gif" width="30px"> About me <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f448_1f3fc/512.gif" width="30px"></h2></summary>
+<summary align="center"><h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f449_1f3fc/512.gif" width="25px"> About me <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f448_1f3fc/512.gif" width="25px"></h2></summary>
 
 ```python
 from life import Creativity
