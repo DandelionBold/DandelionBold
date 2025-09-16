@@ -143,7 +143,7 @@
 </details>
 
 <details open>
-<summary align="center"><h2>🏆 GitHub Trophies</h2></summary>
+<summary align="center"><h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="25px"> GitHub Trophies</h2></summary>
 <div align="center">
   <!-- Note: trophies also doesn't support custom hex; 'dracula' is the closest look -->
   <p align="center">
