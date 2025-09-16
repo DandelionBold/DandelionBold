@@ -85,8 +85,15 @@
         />
       </td>
       <td>
+        <!--
         <img
           src="https://github-readme-streak-stats.herokuapp.com?user=DandelionBold&hide_border=true&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&background=0c002e&sideLabels=0CFFD2&dates=1495ff&fire=1495ff&currStreakLabel=0CFFD2&currStreakNum=0CFFD2"
+          alt="DandelionBold GitHub Streak"
+          height="155"
+        />
+        -->
+        <img
+          src="https://streak-stats.demolab.com?user=DandelionBold&hide_border=true&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&background=0c002e&sideLabels=0CFFD2&dates=1495ff&fire=1495ff&currStreakLabel=0CFFD2&currStreakNum=0CFFD2"
           alt="DandelionBold GitHub Streak"
           height="155"
         />
