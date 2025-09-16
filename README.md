@@ -72,7 +72,7 @@
 
 <details open>
 <!--<summary align="center"><h2>📊 GitHub Stats & Activity</h2></summary>-->
-<summary><div align="center"><h2>📊 GitHub Stats & Activity</h2></div></summary>
+<summary><div align="center"><h2 style="margin:0;">📊 GitHub Stats & Activity</h2></div></summary>
   
 <div align="center">
   
@@ -114,7 +114,7 @@
 
 <details open>
 <!--<summary align="center"><h2>📈 Contribution Graph (activity heatmap)</h2></summary>-->
-<summary><div align="center"><h2>📈 Contribution Graph (activity heatmap)</h2></div></summary>
+<summary><div align="center"><h2 style="margin:0;">📈 Contribution Graph (activity heatmap)</h2></div></summary>
   
 <div align="center">
   <p align="center">
@@ -129,7 +129,7 @@
 
 <details open>
 <!--<summary align="center"><h2>🧾 Contribution Summary Cards</h2></summary>-->
-<summary><div align="center"><h2>🧾 Contribution Summary Cards</h2></div></summary>
+<summary><div align="center"><h2 style="margin:0;">🧾 Contribution Summary Cards</h2></div></summary>
   
 <div align="center">
   <!-- Note: this generator doesn't accept per-color hex params; using closest theme -->
@@ -150,7 +150,7 @@
 
 <details open>
 <!--<summary align="center"><h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="25px"> GitHub Trophies</h2></summary>-->
-<summary><div align="center"><h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="25px"> GitHub Trophies</h2></div></summary>
+<summary><div align="center"><h2 style="margin:0;"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="25px"> GitHub Trophies</h2></div></summary>
   
 <div align="center">
   <!-- Note: trophies also doesn't support custom hex; 'dracula' is the closest look -->
@@ -163,7 +163,7 @@
 
 <details closed>
 <!--<summary align="center"><h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f449_1f3fc/512.gif" width="25px"> About me <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f448_1f3fc/512.gif" width="25px"></h2></summary>-->
-<summary><div align="center"><h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f449_1f3fc/512.gif" width="25px"> About me <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f448_1f3fc/512.gif" width="25px"></h2></div></summary>
+<summary><div align="center"><h2 style="margin:0;"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f449_1f3fc/512.gif" width="25px"> About me <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f448_1f3fc/512.gif" width="25px"></h2></div></summary>
   
 ```python
 from life import Creativity
