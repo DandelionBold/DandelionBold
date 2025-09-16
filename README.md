@@ -71,9 +71,7 @@
 
 
 <details open>
-  <summary>
-    <h2 align="center">📊 GitHub Stats & Activity</h2>
-  </summary>
+<p align="center"><h2>📊 GitHub Stats & Activity</h2></p>
 <div align="center">
   
   <!-- Stats + Streak (side-by-side) -->
@@ -113,7 +111,7 @@
 </details>
 
 <details open>
-<p align="center"><h2>📈 Contribution Graph (activity heatmap)</h2></p>
+<summary align="center"><h2>📈 Contribution Graph (activity heatmap)</h2></summary>
 <div align="center">
   <p align="center">
     <img
