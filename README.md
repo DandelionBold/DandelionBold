@@ -113,7 +113,7 @@
 </details>
 
 <details open>
-<summary align="center"><h2>📈 Contribution Graph (activity heatmap)</h2></summary>
+<p align="center"><h2>📈 Contribution Graph (activity heatmap)</h2></p>
 <div align="center">
   <p align="center">
     <img
