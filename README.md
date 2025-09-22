@@ -191,7 +191,7 @@
   <div align="right">
     <a href="#-all-projects-">
       <img src="./gifs/pointing-up-emoji.gif" width="40px" alt="Go back to All Projects" align="right">
-      <p>↑ Back to All Projects<p>
+      <p>↑ Back to All Projects</p>
     </a>
   </div>
   <br>
