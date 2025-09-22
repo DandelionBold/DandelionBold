@@ -3,10 +3,8 @@
 
 <!-- Centered Personal Info -->
 <p align="center">
-  <h1 align="center">🧑🏻‍💻 Software Engineer</h1>
-  <div align="center">
-    <img src="./gifs/xbox.gif" alt="Xbox Gaming" width="40">
-  </div>
+  <h1 align="center">🧑🏻‍💻 Software Engineer <img src="./gifs/xbox.gif" alt="Xbox Gaming" width="40"></h1>
+
   <p align="center">
     📧 <a href="mailto:kamalnadykamal@gmail.com">kamalnadykamal@gmail.com</a> • 
     📍 Alexandria, Egypt
