@@ -33,6 +33,11 @@
 </div>
 
 ## <img src="./gifs/target-emoji.gif" width="25px"> My Skills
+
+<div align="center">
+  <img src="./gifs/minecraft-enchanted-book.gif" alt="Minecraft Enchanted Book" width="60">
+</div>
+
 <p align="center" style="color: gray; font-size: 0.9em;">
   🤓 I know it looks like a lot — but that's what happens when you're a fast learner with a programming obsession 💻⚙️🚀
 </p>
@@ -55,7 +60,7 @@
 <img align="right" alt="Coding" width="400" src="./gifs/coding-animation.gif">
 
 <!-- Centered heading -->
-<h2 align="center">🚀 Projects</h2>
+<h2 align="center"><img src="./gifs/rocket-emoji.gif" width="25px"> Projects</h2>
 
 <div align="center">
   <img src="./gifs/minecraft-crafting-table.gif" alt="Minecraft Crafting Table" width="80">
