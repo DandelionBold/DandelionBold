@@ -188,6 +188,7 @@
 <div align="center">
   <h2><a href="#-upcoming-projects"><img src="./gifs/rocket-emoji.gif" width="25px"></a> Upcoming Projects</h2>
   <a href="#-upcoming-projects"><img src="./gifs/rocket-league-ball.gif" alt="Rocket League Ball Loading" width="120"></a>
+  <a href="#-all-projects"><img src="./gifs/pointing-up-emoji.gif" width="30px" alt="Go back to All Projects" style="margin-left: 20px;"></a>
   <br>
   <p style="color: #888; font-style: italic; margin-top: 10px;">
     <a href="#-upcoming-projects"><img src="./gifs/target-emoji.gif" width="15px"></a> More exciting projects coming soon...
