@@ -195,39 +195,41 @@
 </details>
 
 
-<!-- Experience Section -->
-<div align="left">
-  <h2><img src="./gifs/experience-bottle.gif" width="25px"> Experience</h2>
+<!-- Experience and Education side by side -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <!-- Experience Section -->
+  <div style="flex: 1; margin-right: 20px;">
+    <h2><img src="./gifs/experience-bottle.gif" width="25px"> Experience</h2>
+    
+    ### 💼 Professional Experience
+    - ERP Systems & Enterprise Solutions
+    - Software Development & Database Management
+    - Cross-Platform Development
+    - Business Intelligence & Data Analytics
+    - Remote System Administration & Support
+    - Curriculum Development
+    - Technical Instruction
+    - Hands-on Training
+    - Student Mentorship
+  </div>
   
-  <img src="./gifs/experience-bottle.gif" alt="Experience Bottle" width="60" align="right">
-  
-  ### 💼 Professional Experience
-  - ERP Systems & Enterprise Solutions
-  - Software Development & Database Management
-  - Cross-Platform Development
-  - Business Intelligence & Data Analytics
-  - Remote System Administration & Support
-  - Curriculum Development
-  - Technical Instruction
-  - Hands-on Training
-  - Student Mentorship
+  <!-- Education Section -->
+  <div style="flex: 1; margin-left: 20px;">
+    <h2><img src="./gifs/minecraft-lectern.gif" width="25px"> Education & Learning</h2>
+    
+    ### 🎓 Academic Background
+    - **Major**: Computer Science
+    - **Minor**: Software Engineering
+
+    ### 🏆 Achievements
+    - Competitive Programming Experience
+    - Continuous Learning & Fast Adaptation
+
+  </div>
 </div>
 
-<!-- Education Section -->
-<div align="right">
-  <h2><img src="./gifs/minecraft-lectern.gif" width="25px"> Education & Learning</h2>
-  
-  <img src="./gifs/minecraft-lectern.gif" alt="Minecraft Lectern" width="60" align="left">
-  
-  ### 🎓 Academic Background
-  - **Major**: Computer Science
-  - **Minor**: Software Engineering
-
-### 🏆 Achievements
-
-- Competitive Programming Experience
-- Continuous Learning & Fast Adaptation
-</div>
+<!-- GIF positioned like the coding animation -->
+<img align="right" alt="Experience & Education" width="300" src="./gifs/experience-bottle.gif">
 
 
 <details open>
