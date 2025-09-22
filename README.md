@@ -195,41 +195,32 @@
 </details>
 
 
-<!-- Experience and Education side by side -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <!-- Experience Section -->
-  <div style="flex: 1; margin-right: 20px;">
-    <h2><img src="./gifs/experience-bottle.gif" width="25px"> Experience</h2>
-    
-    ### 💼 Professional Experience
-    - ERP Systems & Enterprise Solutions
-    - Software Development & Database Management
-    - Cross-Platform Development
-    - Business Intelligence & Data Analytics
-    - Remote System Administration & Support
-    - Curriculum Development
-    - Technical Instruction
-    - Hands-on Training
-    - Student Mentorship
-  </div>
-  
-  <!-- Education Section -->
-  <div style="flex: 1; margin-left: 20px;">
-    <h2><img src="./gifs/minecraft-lectern.gif" width="25px"> Education & Learning</h2>
-    
-    ### 🎓 Academic Background
-    - **Major**: Computer Science
-    - **Minor**: Software Engineering
+## <img src="./gifs/experience-bottle.gif" width="25px"> Experience & <img src="./gifs/minecraft-lectern.gif" width="25px"> Education
 
-    ### 🏆 Achievements
-    - Competitive Programming Experience
-    - Continuous Learning & Fast Adaptation
-
-  </div>
-</div>
-
-<!-- GIF positioned like the coding animation -->
+<!-- Image floats to the right like coding animation -->
 <img align="right" alt="Experience & Education" width="300" src="./gifs/experience-bottle.gif">
+
+### 💼 Professional Experience
+
+- ERP Systems & Enterprise Solutions
+- Software Development & Database Management
+- Cross-Platform Development
+- Business Intelligence & Data Analytics
+- Remote System Administration & Support
+- Curriculum Development
+- Technical Instruction
+- Hands-on Training
+- Student Mentorship
+
+### 🎓 Academic Background
+
+- **Major**: Computer Science
+- **Minor**: Software Engineering
+
+### 🏆 Achievements
+
+- Competitive Programming Experience
+- Continuous Learning & Fast Adaptation
 
 
 <details open>
