@@ -134,11 +134,9 @@
 - **Features**: Donor registration, blood type tracking, inventory
 - **Status**: Completed
 
----
-
-## 🚀 Upcoming Projects
 
 <div align="center">
+  <h2>🚀 Upcoming Projects<\h2>
   <img src="./gifs/rocket-league-ball.gif" alt="Rocket League Ball Loading" width="120">
   <br>
   <p style="color: #888; font-style: italic; margin-top: 10px;">
