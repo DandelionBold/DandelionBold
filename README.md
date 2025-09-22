@@ -148,7 +148,6 @@
 
 
 
-<br>
 <hr>
 
 
@@ -231,6 +230,8 @@
 <summary align="center"><h2><img src="./gifs/trophy-emoji.gif" width="25px"> GitHub Trophies</h2></summary>
   
 <div align="center">
+  <img src="./gifs/rainbow-bird.gif" alt="Rainbow Bird Achievement" width="80">
+  <br>
   <!-- Note: trophies also doesn't support custom hex; 'dracula' is the closest look -->
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=DandelionBold&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies" />
