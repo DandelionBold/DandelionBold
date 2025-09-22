@@ -194,49 +194,39 @@
 
 </details>
 
-<details closed>
-<summary align="center"><h2><img src="./gifs/experience-bottle.gif" width="25px"> Experience</h2></summary>
-
-<div align="center">
-  <img src="./gifs/experience-bottle.gif" alt="Experience Bottle" width="80">
+<!-- Experience Section -->
+<div align="left">
+  <h2><img src="./gifs/experience-bottle.gif" width="25px"> Experience</h2>
+  
+  <img src="./gifs/experience-bottle.gif" alt="Experience Bottle" width="60" align="right">
+  
+  ### 💼 Professional Experience
+  - ERP Systems & Enterprise Solutions
+  - Software Development & Database Management
+  - Cross-Platform Development
+  - Business Intelligence & Data Analytics
+  - Remote System Administration & Support
+  - Curriculum Development
+  - Technical Instruction
+  - Hands-on Training
+  - Student Mentorship
 </div>
 
-### 💼 Professional Experience
-
-- ERP Systems & Enterprise Solutions
-- Software Development & Database Management
-- Cross-Platform Development
-- Business Intelligence & Data Analytics
-- Remote System Administration & Support
-- Curriculum Development
-- Technical Instruction
-- Hands-on Training
-- Student Mentorship
-
-<hr>
-
-</details>
-
-<details closed>
-<summary align="center"><h2><img src="./gifs/minecraft-lectern.gif" width="25px"> Education & Learning</h2></summary>
-
-<div align="center">
-  <img src="./gifs/minecraft-lectern.gif" alt="Minecraft Lectern" width="80">
-</div>
-
-### 🎓 Academic Background
-
-- **Major**: Computer Science
-- **Minor**: Software Engineering
+<!-- Education Section -->
+<div align="right">
+  <h2><img src="./gifs/minecraft-lectern.gif" width="25px"> Education & Learning</h2>
+  
+  <img src="./gifs/minecraft-lectern.gif" alt="Minecraft Lectern" width="60" align="left">
+  
+  ### 🎓 Academic Background
+  - **Major**: Computer Science
+  - **Minor**: Software Engineering
 
 ### 🏆 Achievements
 
 - Competitive Programming Experience
 - Continuous Learning & Fast Adaptation
-
-<hr>
-
-</details>
+</div>
 
 <details open>
 <summary align="center"><h2>📊 GitHub Stats & Activity</h2></summary>
