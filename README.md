@@ -190,11 +190,10 @@
   </p>
 </div>
 
+<hr>
+
 </details>
 
-
-
-<hr>
 
 <details closed>
 <summary align="center"><h2><img src="./gifs/experience-bottle.gif" width="25px"> Experience</h2></summary>
@@ -222,6 +221,8 @@
 - **Curriculum Development**: Design practical exercises and real-world applications
 - **Student Guidance**: Mentor students through projects and assessments
 - **Skills Focus**: Problem-solving, technical instruction, and hands-on learning
+
+<hr>
 
 </details>
 
@@ -252,10 +253,9 @@
 - IoT & Robotics
 - Business Intelligence
 
-</details>
-
 <hr>
 
+</details>
 
 <details open>
 <summary align="center"><h2>📊 GitHub Stats & Activity</h2></summary>
