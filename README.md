@@ -57,6 +57,10 @@
 <!-- Centered heading -->
 <h2 align="center">🚀 Projects</h2>
 
+<div align="center">
+  <img src="./gifs/minecraft-crafting-table.gif" alt="Minecraft Crafting Table" width="80">
+</div>
+
 - 🧠 **CodeSpy (Graduation Project)** – LMS + Code Plagiarism Detection  
 - 🏫 **Saint-Stephen School Management System**  
 - 🤖 **Rubik’s Cube Solver Robot**  
