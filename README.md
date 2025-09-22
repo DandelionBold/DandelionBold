@@ -74,10 +74,10 @@
 
 
 <details closed>
-<summary align="center"><h2><a href="#-experience---education"><img src="./gifs/minecraft-chest-opening.gif" width="25px"></a> All Projects <a href="#-experience---education"><img src="./gifs/minecraft-chest-opening.gif" width="25px"></a></h2></summary>
+<summary align="center"><h2><a href="#-all-projects-"><img src="./gifs/minecraft-chest-opening.gif" width="25px"></a> All Projects <a href="#-all-projects-"><img src="./gifs/minecraft-chest-opening.gif" width="25px"></a></h2></summary>
 
 <div align="center">
-  <a href="#-experience---education"><img src="./gifs/coding.gif" alt="Minecraft Chest Opening" width="100"></a>
+  <a href="#-all-projects-"><img src="./gifs/coding.gif" alt="Minecraft Chest Opening" width="100"></a>
 </div>
 
 ### 🧠 CodeSpy (Graduation Project)
