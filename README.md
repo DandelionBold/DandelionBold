@@ -194,7 +194,6 @@
 
 </details>
 
-
 <details closed>
 <summary align="center"><h2><img src="./gifs/experience-bottle.gif" width="25px"> Experience</h2></summary>
 
@@ -206,21 +205,20 @@
 
 **IronLabs** • _Oct 2023 - Present_ • Alexandria, Egypt
 
-- **Software Development**: Develop and maintain business software solutions using C#.NET on DevExpress platform
-- **Database Management**: Work with Firebird, MSSql, MySql, PostgreSQL, and SQLite databases
-- **ERP Solutions**: Customize Perfecto ERP packages for financial management, supply chain, HR, and CRM
-- **Cross-Platform Development**: Implement applications using WinForms, MAUI, and Blazor
-- **Business Intelligence**: Create dashboards, KPIs, and reports for data-driven decision making
-- **Dedicated Support**: Provide remote system administration and troubleshooting support
+- ERP Systems & Enterprise Solutions
+- Software Development & Database Management
+- Cross-Platform Development
+- Business Intelligence & Data Analytics
+- Remote System Administration & Support
 
 ### 🎓 Adjunct Faculty Instructor
 
 **Arab Academy for Science, Technology & Maritime Transport** • _Sep 2023 - Present_ • Alexandria, Egypt
 
-- **Teaching**: Programming and computer science courses at AAST
-- **Curriculum Development**: Design practical exercises and real-world applications
-- **Student Guidance**: Mentor students through projects and assessments
-- **Skills Focus**: Problem-solving, technical instruction, and hands-on learning
+- Curriculum Development
+- Technical Instruction
+- Hands-on Training
+- Student Mentorship
 
 <hr>
 
@@ -235,23 +233,13 @@
 
 ### 🎓 Academic Background
 
-- **Bachelor of Computer Science** • Arab Academy for Science, Technology & Maritime Transport (2019-2023)
-- **Minor**: Software Engineering
+- **Bachelor of Computer Science** with Software Engineering minor
 - **Location**: Alexandria, Egypt
 
 ### 🏆 Achievements
 
-- **AAST Competitive Programming Contest (2020)**: Achieved 32nd place
-- **App Soft Training (2021-2022)**: Software developer training in .NET MVC
-- **Continuous Learning**: Fast learner with programming obsession 💻⚙️🚀
-
-### 🎯 Fields of Interest
-
-- Competitive Programming
-- Software Architecture
-- Machine Learning
-- IoT & Robotics
-- Business Intelligence
+- Competitive Programming Experience
+- Continuous Learning & Fast Adaptation
 
 <hr>
 
