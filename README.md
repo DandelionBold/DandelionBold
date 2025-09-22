@@ -227,7 +227,7 @@
 </details>
 
 <details open>
-<summary align="center"><h2><img src="./gifs/trophy-emoji.gif" width="25px"> GitHub Trophies </h2><img src="./gifs/rainbow-bird.gif" alt="Rainbow Bird Achievement" width="25"></summary>
+<summary align="center"><h2><img src="./gifs/trophy-emoji.gif" width="25px"> GitHub Trophies</h2>&nbsp;&nbsp;<img src="./gifs/rainbow-bird.gif" alt="Rainbow Bird Achievement" width="25"></summary>
   
 <div align="center">
 
