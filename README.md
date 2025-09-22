@@ -59,8 +59,6 @@
 
 <div align="center">
   <img src="./gifs/minecraft-crafting-table.gif" alt="Minecraft Crafting Table" width="80">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./gifs/minecraft-chest-opening.gif" alt="Minecraft Chest Opening" width="80">
 </div>
 
 - 🧠 **CodeSpy (Graduation Project)** – LMS + Code Plagiarism Detection  
@@ -74,7 +72,7 @@
 
 
 <details closed>
-<summary align="center"><h2><img src="./gifs/minecraft-chest-opening.gif" width="25px"> Other Projects <img src="./gifs/minecraft-chest-opening.gif" width="25px"></h2></summary>
+<summary align="center"><h2><img src="./gifs/coding.gif" width="25px"> Other Projects <img src="./gifs/minecraft-chest-opening.gif" width="25px"></h2></summary>
 
 <div align="center">
   <img src="./gifs/minecraft-chest-opening.gif" alt="Minecraft Chest Opening" width="100">
