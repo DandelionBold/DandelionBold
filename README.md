@@ -72,10 +72,10 @@
 
 
 <details closed>
-<summary align="center"><h2><img src="./gifs/coding.gif" width="25px"> Other Projects <img src="./gifs/minecraft-chest-opening.gif" width="25px"></h2></summary>
+<summary align="center"><h2><img src="./gifs/minecraft-chest-opening.gif" width="25px"> Other Projects <img src="./gifs/minecraft-chest-opening.gif" width="25px"></h2></summary>
 
 <div align="center">
-  <img src="./gifs/minecraft-chest-opening.gif" alt="Minecraft Chest Opening" width="100">
+  <img src="./gifs/coding.gif" alt="Minecraft Chest Opening" width="100">
 </div>
 
 ### 🧠 CodeSpy (Graduation Project)
