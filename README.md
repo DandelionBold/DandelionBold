@@ -194,21 +194,6 @@
 
 </details>
 
-<!-- Education Section -->
-<div align="right">
-  <h2><img src="./gifs/minecraft-lectern.gif" width="25px"> Education & Learning</h2>
-  
-  <img src="./gifs/minecraft-lectern.gif" alt="Minecraft Lectern" width="60" align="left">
-  
-  ### 🎓 Academic Background
-  - **Major**: Computer Science
-  - **Minor**: Software Engineering
-
-### 🏆 Achievements
-
-- Competitive Programming Experience
-- Continuous Learning & Fast Adaptation
-</div>
 
 <!-- Experience Section -->
 <div align="left">
@@ -227,6 +212,23 @@
   - Hands-on Training
   - Student Mentorship
 </div>
+
+<!-- Education Section -->
+<div align="right">
+  <h2><img src="./gifs/minecraft-lectern.gif" width="25px"> Education & Learning</h2>
+  
+  <img src="./gifs/minecraft-lectern.gif" alt="Minecraft Lectern" width="60" align="left">
+  
+  ### 🎓 Academic Background
+  - **Major**: Computer Science
+  - **Minor**: Software Engineering
+
+### 🏆 Achievements
+
+- Competitive Programming Experience
+- Continuous Learning & Fast Adaptation
+</div>
+
 
 <details open>
 <summary align="center"><h2>📊 GitHub Stats & Activity</h2></summary>
