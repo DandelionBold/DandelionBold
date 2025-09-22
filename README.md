@@ -201,20 +201,13 @@
   <img src="./gifs/experience-bottle.gif" alt="Experience Bottle" width="80">
 </div>
 
-### 💼 Business Software Development Engineer & Dedicated Support
-
-**IronLabs** • _Oct 2023 - Present_ • Alexandria, Egypt
+### 💼 Professional Experience
 
 - ERP Systems & Enterprise Solutions
 - Software Development & Database Management
 - Cross-Platform Development
 - Business Intelligence & Data Analytics
 - Remote System Administration & Support
-
-### 🎓 Adjunct Faculty Instructor
-
-**Arab Academy for Science, Technology & Maritime Transport** • _Sep 2023 - Present_ • Alexandria, Egypt
-
 - Curriculum Development
 - Technical Instruction
 - Hands-on Training
@@ -233,8 +226,8 @@
 
 ### 🎓 Academic Background
 
-- **Bachelor of Computer Science** with Software Engineering minor
-- **Location**: Alexandria, Egypt
+- **Major**: Computer Science
+- **Minor**: Software Engineering
 
 ### 🏆 Achievements
 
