@@ -81,60 +81,104 @@
 </div>
 
 ### 🧠 CodeSpy (Graduation Project)
+- **Description:** Full LMS with integrated **code-plagiarism detection** across **127 programming languages**, built to help instructors manage classes and uphold academic integrity.
+- **Technologies:** HTML, CSS, JavaScript, **Python**, **Django**, **MySQL**
+- **Features:**
+  - Plagiarism detection with similarity analysis on code submissions.
+  - Class/section management, assignments, grading, and progress tracking.
+  - Teacher–student communication (announcements, messaging).
+  - Role-based access (admins, teachers, students).
+  - Integrity focus: nudges, guidance, and feedback to teach ethical coding.
+- **Status:** Completed
 
-- **Description**: LMS + Code Plagiarism Detection System
-- **Technologies**: Java, Spring Boot, MySQL, Machine Learning
-- **Features**: Student management, assignment submission, plagiarism detection
-- **Status**: Completed
+---
 
 ### 🏫 Saint-Stephen School Management System
+- **Description:** Management system for a church-service program (school-like) that teaches hymns, rituals, and Coptic language, with full attendance and materials tracking for students and teachers.
+- **Technologies:** **Python**, **Django**, HTML, **SASS**, CSS, JavaScript, **MySQL**
+- **Features:**
+  - **Curriculum management** for church subjects (materials, units, attachments).
+  - **Attendance tracking** for students and teachers.
+  - **Roles & permissions:** teachers manage classes; students view grades, class details, and study materials.
+  - Class announcements and simple teacher–student communication.
+- **Notes:** Side project with evolving user requirements, so development spans longer and iterates with feedback.
+- **Status:** In development
 
-- **Description**: Complete school administration system
-- **Technologies**: C#, .NET, SQL Server, WinForms
-- **Features**: Student records, grade management, attendance tracking
-- **Status**: Completed
+---
 
-### 🤖 Rubik's Cube Solver Robot
+### 🤖 Robotic Rubik’s Cube Solver
+- **Description:** End-to-end robot that detects cube colors, computes a valid solve sequence, and executes moves automatically.
+- **Technologies:** **Python**, **OpenCV**, **Arduino UNO**
+- **Features:** Color scanning & face detection (CV), move-planning, motor control, hardware + mechanical integration (incl. CNC considerations).
+- **Timeline:** ~5 weeks alongside other coursework
+- **Status:** Completed
 
-- **Description**: AI-powered robotic solution for Rubik's cube
-- **Technologies**: Python, OpenCV, Arduino, Computer Vision
-- **Features**: Image recognition, solving algorithm, robotic control
-- **Status**: Completed
+---
 
-### 🎮 XO-playing Smart Robotic Arm
+### 🎮 XO-Playing Robotic Arm (Tic-Tac-Toe)
+- **Description:** Vision-guided robotic arm that plays Tic-Tac-Toe against a human opponent.
+- **Technologies:** **Python**, **OpenCV**, **Arduino UNO**
+- **Features:** Board state detection with CV, game logic/AI for move selection, precise pick-and-place to grid cells, calibration/reset routines.
+- **Status:** Completed
 
-- **Description**: Robotic arm that plays Tic-Tac-Toe
-- **Technologies**: C++, Arduino, Machine Learning
-- **Features**: Game logic, robotic movement, AI opponent
-- **Status**: Completed
+---
 
-### 🧠 GAN-based Face Generator
+### 🧠 GAN-Based Face Generator
+- **Description:** Generative Adversarial Network that synthesizes realistic human faces from a **seed**, producing **reproducible** outputs.
+- **Technologies:** **Python**, **TensorFlow** (Deep Learning)
+- **Features:**
+  - Seed-based sampling (same seed ⇒ same face).
+  - Latent-space exploration (vary the seed to generate diverse faces; interpolate between seeds).
+  - Training/monitoring utilities and image exporters for result galleries.
+- **Status:** Completed
 
-- **Description**: Generative Adversarial Network for face synthesis
-- **Technologies**: Python, TensorFlow, Deep Learning
-- **Features**: Face generation, style transfer, neural networks
-- **Status**: Completed
+---
 
-### 💰 Customer Bank Simulation
+### 💰 Customer Bank Simulation (Discrete-Event)
+- **Description:** Bank operations simulator modeling customers moving through service points until exit.
+- **Technologies:** **Python**, **SimPy**
+- **Features:**
+  - Agents for customers, queues, and tellers/service stations.
+  - Metrics: avg. wait, queue length distributions, throughput, per-station **utilization**, SLA breaches.
+  - Experiments: vary teller counts/service times to locate bottlenecks and recommend staffing.
+  - Reports: per-station summaries and end-to-end time-in-system.
+- **Status:** Completed
 
-- **Description**: Banking system simulation with transactions
-- **Technologies**: Java, OOP principles, File I/O
-- **Features**: Account management, transactions, reporting
-- **Status**: Completed
+---
+
+### 🏭 Factory Flow & Transport Simulation (Discrete-Event)
+- **Description:** Production-line simulator for a **gears** factory. Loads move between machines with spacing constraints while **two trucks** shuttle items in sequence.
+- **Technologies:** **Python**, **SimPy**
+- **Features:**
+  - Machine models with processing times/capacities and inter-machine distances.
+  - Transporter logic for two trucks (dispatching, queues, route choice).
+  - KPIs: machine utilization, WIP, transport idle time, cycle time, bottleneck detection.
+  - Scenario testing (e.g., add a truck vs. rebalance machine times).
+- **Status:** Completed
+
+---
 
 ### 🏥 Hospital Management System
+- **Description:** Desktop system covering core **clinical** and **administrative** workflows—not just basic CRUD.
+- **Technologies:** **JavaFX**, **MySQL**
+- **Features:**
+  - **Appointments** (create, reschedule, cancel, clinician calendars).
+  - **Medical records** (patient profiles, visit history, diagnoses, procedures).
+  - Orders & documentation (prescriptions, labs/imaging requests).
+  - Role-based access (admin/doctor/nurse/front-desk) and audit trails.
+- **Status:** Completed
 
-- **Description**: Healthcare facility management system
-- **Technologies**: C#, .NET, SQL Server
-- **Features**: Patient records, appointment scheduling, billing
-- **Status**: Completed
+---
 
-### 🩸 Blood Donation GUI
-
-- **Description**: Blood donation management interface
-- **Technologies**: Java, Swing, Database integration
-- **Features**: Donor registration, blood type tracking, inventory
-- **Status**: Completed
+### 🩸 Blood Donation Matching App
+- **Description:** Application that connects patients with suitable blood donors and enables direct coordination.
+- **Technologies:** **Java**, **JavaFX**, multithreading
+- **Features:**
+  - **Matching by blood type** and **geographic proximity** (nearest suitable donors suggested).
+  - In-app **chat** between donor and patient for coordination.
+  - **Notifications** for new matches, message activity, and updates while waiting.
+  - Built natively from scratch with concurrency for responsive UI and background matching.
+- **Status:** Completed
 
 
 <div align="center">
@@ -332,10 +376,31 @@ class Life(Creativity):
             "Bachelor in Computer Science with a minor in Software Engineering"
         ]
 
+
+class GameEngine:
+    """
+    Emulator for free time (runs only when work process is suspended).
+    """
+
+    def __init__(self):
+        self.saveFiles = {
+            "Minecraft": {"mode": "Hardcore", "status": "Respawn disabled 💀"},
+            "Rocket League": {"rank": "Diamond", "status": "Chasing the ball instead of the rotation 🚗⚽"}
+        }
+
+    def start(self, game: str):
+        if game in self.saveFiles:
+            print(f"Booting {game}... Status: {self.saveFiles[game]['status']}")
+        else:
+            raise GameNotFoundError(f"{game} not installed!")
+
 # Totally not running in production 😅
 if __name__ == '__main__':
     profile = Life()
-    print(f"Logging in with password: {profile.password} (definitely not hardcoded)") 
+    print(f"Logging in with password: {profile.password} (definitely not hardcoded)")
+
+    fun = GameEngine()
+    fun.start("League Of Legends")
 ```
 
 </details>
