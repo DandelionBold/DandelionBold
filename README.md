@@ -72,10 +72,10 @@
 
 
 <details closed>
-<summary align="center"><h2><img src="./gifs/minecraft-chest-opening.gif" width="25px"> Other Projects <img src="./gifs/minecraft-chest-opening.gif" width="25px"></h2></summary>
+<summary align="center"><h2><img src="./gifs/minecraft-chest-opening.gif" width="25px"> All Projects <img src="./gifs/minecraft-chest-opening.gif" width="25px"></h2></summary>
 
 <div align="center">
-  <img src="./gifs/coding.gif" alt="Minecraft Chest Opening" width="100">
+  <img src="./gifs/minecraft-chest-opening.gif" alt="Minecraft Chest Opening" width="100">
 </div>
 
 ### 🧠 CodeSpy (Graduation Project)
@@ -134,7 +134,20 @@
 - **Features**: Donor registration, blood type tracking, inventory
 - **Status**: Completed
 
+---
+
+## 🚀 Upcoming Projects
+
+<div align="center">
+  <img src="./gifs/rocket-league-ball.gif" alt="Rocket League Ball Loading" width="120">
+  <br>
+  <p style="color: #888; font-style: italic; margin-top: 10px;">
+    🎯 More exciting projects coming soon...
+  </p>
+</div>
+
 </details>
+
 
 
 <br>
@@ -236,7 +249,7 @@
 </div>
 
 ```python
-from life import Creativity
+from life import HardcoreMode
 import os  # obviously secure, right? 😅
 from dotenv import load_dotenv  # even more secure!
 
