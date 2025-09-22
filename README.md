@@ -35,7 +35,7 @@
 </div>
 
 <!-- Centered heading -->
-<h2 align="center"><img src="./gifs/minecraft-enchanted-book.gif" width="25px" style="pointer-events: none;"> My Skills</h2>
+<h2 align="center"><a href="javascript:void(0)"><img src="./gifs/minecraft-enchanted-book.gif" width="25px"></a> My Skills</h2>
 
 <p align="center" style="color: gray; font-size: 0.9em;">
   🤓 I know it looks like a lot — but that's what happens when you're a fast learner with a programming obsession 💻⚙️🚀
