@@ -21,7 +21,7 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/kamal-nady"><img src="./images/linkedin.svg" width="24"/></a>&nbsp;
     <a href="https://github.com/DandelionBold"><img src="./images/github.svg" width="24"/></a>
-    <a href="https://pin.it/2Pfe7mg"><img src="./gifs/xbox.gif" width="24"/></a>
+    <a href="./gifs/Ok-and.jpeg"><img src="./gifs/xbox.gif" width="24"/></a>
   </p>
 </p>
 
