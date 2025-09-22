@@ -32,7 +32,7 @@
   </picture>
 </div>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width="25px"> My Skills
+## <img src="./gifs/target-emoji.gif" width="25px"> My Skills
 <p align="center" style="color: gray; font-size: 0.9em;">
   🤓 I know it looks like a lot — but that's what happens when you're a fast learner with a programming obsession 💻⚙️🚀
 </p>
@@ -52,7 +52,7 @@
 ---
 
 <!-- Image floats to the right -->
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="./gifs/coding-animation.gif">
 
 <!-- Centered heading -->
 <h2 align="center">🚀 Projects</h2>
@@ -72,7 +72,6 @@
 
 <details open>
 <summary align="center"><h2>📊 GitHub Stats & Activity</h2></summary>
-<!--<summary><div align="center"><h2>📊 GitHub Stats & Activity</h2></div></summary>-->
   
 <div align="center">
   
@@ -114,7 +113,6 @@
 
 <details open>
 <summary align="center"><h2>📈 Contribution Graph (activity heatmap)</h2></summary>
-<!--<summary><div align="center"><h2>📈 Contribution Graph (activity heatmap)</h2></div></summary>-->
   
 <div align="center">
   <p align="center">
@@ -129,7 +127,6 @@
 
 <details open>
 <summary align="center"><h2>🧾 Contribution Summary Cards</h2></summary>
-<!--<summary><div align="center"><h2>🧾 Contribution Summary Cards</h2></div></summary>-->
   
 <div align="center">
   <!-- Note: this generator doesn't accept per-color hex params; using closest theme -->
@@ -149,8 +146,7 @@
 </details>
 
 <details open>
-<summary align="center"><h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="25px"> GitHub Trophies</h2></summary>
-<!--<summary><div align="center"><h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="25px"> GitHub Trophies</h2></div></summary>-->
+<summary align="center"><h2><img src="./gifs/trophy-emoji.gif" width="25px"> GitHub Trophies</h2></summary>
   
 <div align="center">
   <!-- Note: trophies also doesn't support custom hex; 'dracula' is the closest look -->
@@ -162,12 +158,10 @@
 </details>
 
 <details closed>
-<summary align="center"><h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f449_1f3fc/512.gif" width="25px"> About me <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f448_1f3fc/512.gif" width="25px"></h2></summary>
-<!--<summary><div align="center"><h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f449_1f3fc/512.gif" width="25px"> About me <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f448_1f3fc/512.gif" width="25px"></h2></div></summary>-->
+<summary align="center"><h2><img src="./gifs/pointing-left-emoji.gif" width="25px"> About me <img src="./gifs/pointing-right-emoji.gif" width="25px"></h2></summary>
 
 <h2 align="center">test</h2>
 
-  
 ```python
 from life import Creativity
 import os  # obviously secure, right? 😅
