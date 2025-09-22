@@ -32,7 +32,8 @@
   </picture>
 </div>
 
-## <img src="./gifs/target-emoji.gif" width="25px"> My Skills
+<!-- Centered heading -->
+<h2 align="center"><img src="./gifs/target-emoji.gif" width="25px"> My Skills</h2>
 
 <div align="center">
   <img src="./gifs/minecraft-enchanted-book.gif" alt="Minecraft Enchanted Book" width="60">
