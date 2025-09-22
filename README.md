@@ -136,11 +136,11 @@
 
 
 <div align="center">
-  <h2>🚀 Upcoming Projects</h2>
+  <h2><img src="./gifs/rocket-emoji.gif" width="25px"> Upcoming Projects</h2>
   <img src="./gifs/rocket-league-ball.gif" alt="Rocket League Ball Loading" width="120">
   <br>
   <p style="color: #888; font-style: italic; margin-top: 10px;">
-    🎯 More exciting projects coming soon...
+    <img src="./gifs/target-emoji.gif" width="25px"> More exciting projects coming soon...
   </p>
 </div>
 
