@@ -162,8 +162,11 @@
 </details>
 
 <details closed>
-<summary align="center"><h2>test</h2><h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f449_1f3fc/512.gif" width="25px"> About me <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f448_1f3fc/512.gif" width="25px"></h2></summary>
+<summary align="center"><h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f449_1f3fc/512.gif" width="25px"> About me <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f448_1f3fc/512.gif" width="25px"></h2></summary>
 <!--<summary><div align="center"><h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f449_1f3fc/512.gif" width="25px"> About me <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f448_1f3fc/512.gif" width="25px"></h2></div></summary>-->
+
+<h2 align="center">test</h2>
+
   
 ```python
 from life import Creativity
