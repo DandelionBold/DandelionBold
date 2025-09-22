@@ -35,7 +35,7 @@
 </div>
 
 <!-- Centered heading -->
-<h2 align="center" id="my-skills"><a href="#-my-skills"><img src="./gifs/minecraft-enchanted-book.gif" width="25px"></a> My Skills</h2>
+<h2 align="center"><a href="#-my-skills"><img src="./gifs/minecraft-enchanted-book.gif" width="25px"></a> My Skills</h2>
 
 <p align="center" style="color: gray; font-size: 0.9em;">
   🤓 I know it looks like a lot — but that's what happens when you're a fast learner with a programming obsession 💻⚙️🚀
@@ -59,10 +59,10 @@
 <a href="#-projects"><img align="right" alt="Coding" width="400" src="./gifs/coding-animation.gif"></a>
 
 <!-- Centered heading -->
-<h2 align="center"><img src="./gifs/rocket-emoji.gif" width="25px"> Projects</h2>
+<h2 align="center"><a href="#-projects"><img src="./gifs/rocket-emoji.gif" width="25px"></a> Projects</h2>
 
 <div align="center">
-  <img src="./gifs/minecraft-crafting-table.gif" alt="Minecraft Crafting Table" width="80">
+  <a href="#-projects"><img src="./gifs/minecraft-crafting-table.gif" alt="Minecraft Crafting Table" width="80"></a>
 </div>
 
 - 🧠 **CodeSpy (Graduation Project)** – LMS + Code Plagiarism Detection  
@@ -74,10 +74,10 @@
 
 
 <details closed>
-<summary align="center"><h2><img src="./gifs/minecraft-chest-opening.gif" width="25px"> All Projects <img src="./gifs/minecraft-chest-opening.gif" width="25px"></h2></summary>
+<summary align="center"><h2><a href="#-experience---education"><img src="./gifs/minecraft-chest-opening.gif" width="25px"></a> All Projects <a href="#-experience---education"><img src="./gifs/minecraft-chest-opening.gif" width="25px"></a></h2></summary>
 
 <div align="center">
-  <img src="./gifs/coding.gif" alt="Minecraft Chest Opening" width="100">
+  <a href="#-experience---education"><img src="./gifs/coding.gif" alt="Minecraft Chest Opening" width="100"></a>
 </div>
 
 ### 🧠 CodeSpy (Graduation Project)
@@ -182,11 +182,11 @@
 
 
 <div align="center">
-  <h2><img src="./gifs/rocket-emoji.gif" width="25px"> Upcoming Projects</h2>
-  <img src="./gifs/rocket-league-ball.gif" alt="Rocket League Ball Loading" width="120">
+  <h2><a href="#-upcoming-projects"><img src="./gifs/rocket-emoji.gif" width="25px"></a> Upcoming Projects</h2>
+  <a href="#-upcoming-projects"><img src="./gifs/rocket-league-ball.gif" alt="Rocket League Ball Loading" width="120"></a>
   <br>
   <p style="color: #888; font-style: italic; margin-top: 10px;">
-    <img src="./gifs/target-emoji.gif" width="15px"> More exciting projects coming soon...
+    <a href="#-upcoming-projects"><img src="./gifs/target-emoji.gif" width="15px"></a> More exciting projects coming soon...
   </p>
 </div>
 
@@ -196,10 +196,10 @@
 
 
 <details closed>
-<summary align="center"><h2><img src="./gifs/experience-bottle.gif" width="25px"> Experience & <img src="./gifs/minecraft-lectern.gif" width="25px"> Education</h2></summary>
+<summary align="center"><h2><a href="#-experience---education"><img src="./gifs/experience-bottle.gif" width="25px"></a> Experience & <a href="#-experience---education"><img src="./gifs/minecraft-lectern.gif" width="25px"></a> Education</h2></summary>
 
 <!-- Image floats to the right like coding animation -->
-<img align="right" alt="Experience & Education" width="300" src="./gifs/minecraft-lectern.gif">
+<a href="#-experience---education"><img align="right" alt="Experience & Education" width="300" src="./gifs/minecraft-lectern.gif"></a>
 
 ### 💼 Professional Experience
 
@@ -302,7 +302,7 @@
 </details>
 
 <details open>
-<summary align="center"><h2><img src="./gifs/trophy-emoji.gif" width="25px"> GitHub Trophies</h2></summary>
+<summary align="center"><h2><a href="#-github-trophies"><img src="./gifs/trophy-emoji.gif" width="25px"></a> GitHub Trophies</h2></summary>
   
 <div align="center">
 
@@ -315,10 +315,10 @@
 </details>
 
 <details closed>
-<summary align="center"><h2><img src="./gifs/pointing-left-emoji.gif" width="25px"> About me <img src="./gifs/pointing-right-emoji.gif" width="25px"></h2></summary>
+<summary align="center"><h2><a href="#-about-me-"><img src="./gifs/pointing-left-emoji.gif" width="25px"></a> About me <a href="#-about-me-"><img src="./gifs/pointing-right-emoji.gif" width="25px"></a></h2></summary>
 
 <div align="center">
-  <img src="./gifs/minecraft-enchanting-table.gif" alt="Minecraft Enchanting Table" width="100">
+    <a href="#-about-me-"><img src="./gifs/minecraft-enchanting-table.gif" alt="Minecraft Enchanting Table" width="100"></a>
 </div>
 
 ```python
