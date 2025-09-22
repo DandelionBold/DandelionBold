@@ -59,6 +59,8 @@
 
 <div align="center">
   <img src="./gifs/minecraft-crafting-table.gif" alt="Minecraft Crafting Table" width="80">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./gifs/minecraft-chest-opening.gif" alt="Minecraft Chest Opening" width="80">
 </div>
 
 - 🧠 **CodeSpy (Graduation Project)** – LMS + Code Plagiarism Detection  
