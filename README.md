@@ -72,6 +72,73 @@
 - 🏥 **Hospital Management System**  
 - 🩸 **Blood Donation GUI**
 
+
+<details closed>
+<summary align="center"><h2><img src="./gifs/minecraft-chest-opening.gif" width="25px"> Other Projects <img src="./gifs/minecraft-chest-opening.gif" width="25px"></h2></summary>
+
+<div align="center">
+  <img src="./gifs/minecraft-chest-opening.gif" alt="Minecraft Chest Opening" width="100">
+</div>
+
+### 🧠 CodeSpy (Graduation Project)
+
+- **Description**: LMS + Code Plagiarism Detection System
+- **Technologies**: Java, Spring Boot, MySQL, Machine Learning
+- **Features**: Student management, assignment submission, plagiarism detection
+- **Status**: Completed
+
+### 🏫 Saint-Stephen School Management System
+
+- **Description**: Complete school administration system
+- **Technologies**: C#, .NET, SQL Server, WinForms
+- **Features**: Student records, grade management, attendance tracking
+- **Status**: Completed
+
+### 🤖 Rubik's Cube Solver Robot
+
+- **Description**: AI-powered robotic solution for Rubik's cube
+- **Technologies**: Python, OpenCV, Arduino, Computer Vision
+- **Features**: Image recognition, solving algorithm, robotic control
+- **Status**: Completed
+
+### 🎮 XO-playing Smart Robotic Arm
+
+- **Description**: Robotic arm that plays Tic-Tac-Toe
+- **Technologies**: C++, Arduino, Machine Learning
+- **Features**: Game logic, robotic movement, AI opponent
+- **Status**: Completed
+
+### 🧠 GAN-based Face Generator
+
+- **Description**: Generative Adversarial Network for face synthesis
+- **Technologies**: Python, TensorFlow, Deep Learning
+- **Features**: Face generation, style transfer, neural networks
+- **Status**: Completed
+
+### 💰 Customer Bank Simulation
+
+- **Description**: Banking system simulation with transactions
+- **Technologies**: Java, OOP principles, File I/O
+- **Features**: Account management, transactions, reporting
+- **Status**: Completed
+
+### 🏥 Hospital Management System
+
+- **Description**: Healthcare facility management system
+- **Technologies**: C#, .NET, SQL Server
+- **Features**: Patient records, appointment scheduling, billing
+- **Status**: Completed
+
+### 🩸 Blood Donation GUI
+
+- **Description**: Blood donation management interface
+- **Technologies**: Java, Swing, Database integration
+- **Features**: Donor registration, blood type tracking, inventory
+- **Status**: Completed
+
+</details>
+
+
 <br>
 <hr>
 
