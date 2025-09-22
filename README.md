@@ -198,7 +198,7 @@
 ## <img src="./gifs/experience-bottle.gif" width="25px"> Experience & <img src="./gifs/minecraft-lectern.gif" width="25px"> Education
 
 <!-- Image floats to the right like coding animation -->
-<img align="right" alt="Experience & Education" width="300" src="./gifs/experience-bottle.gif">
+<img align="right" alt="Experience & Education" width="300" src="./gifs/minecraft-lectern.gif">
 
 ### 💼 Professional Experience
 
