@@ -160,7 +160,9 @@
 <details closed>
 <summary align="center"><h2><img src="./gifs/pointing-left-emoji.gif" width="25px"> About me <img src="./gifs/pointing-right-emoji.gif" width="25px"></h2></summary>
 
-<h2 align="center">test</h2>
+<div align="center">
+  <img src="./gifs/minecraft-enchanting-table.gif" alt="Minecraft Enchanting Table" width="200">
+</div>
 
 ```python
 from life import Creativity
