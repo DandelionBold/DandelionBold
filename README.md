@@ -196,7 +196,8 @@
 
 <hr>
 
-## <img src="./gifs/experience-bottle.gif" width="25px"> Experience
+<details closed>
+<summary align="center"><h2><img src="./gifs/experience-bottle.gif" width="25px"> Experience</h2></summary>
 
 <div align="center">
   <img src="./gifs/experience-bottle.gif" alt="Experience Bottle" width="80">
@@ -222,9 +223,10 @@
 - **Student Guidance**: Mentor students through projects and assessments
 - **Skills Focus**: Problem-solving, technical instruction, and hands-on learning
 
----
+</details>
 
-## <img src="./gifs/minecraft-lectern.gif" width="25px"> Education & Learning
+<details closed>
+<summary align="center"><h2><img src="./gifs/minecraft-lectern.gif" width="25px"> Education & Learning</h2></summary>
 
 <div align="center">
   <img src="./gifs/minecraft-lectern.gif" alt="Minecraft Lectern" width="80">
@@ -249,6 +251,8 @@
 - Machine Learning
 - IoT & Robotics
 - Business Intelligence
+
+</details>
 
 <hr>
 
