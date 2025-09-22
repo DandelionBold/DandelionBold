@@ -66,9 +66,7 @@
 - 🤖 **Rubik’s Cube Solver Robot**  
 - 🎮 **XO-playing Smart Robotic Arm**  
 - 🧠 **GAN-based Face Generator**  
-- 💰 **Customer Bank Simulation**  
 - 🏥 **Hospital Management System**  
-- 🩸 **Blood Donation GUI**
 
 
 <details closed>
