@@ -161,7 +161,7 @@
 <summary align="center"><h2><img src="./gifs/pointing-left-emoji.gif" width="25px"> About me <img src="./gifs/pointing-right-emoji.gif" width="25px"></h2></summary>
 
 <div align="center">
-  <img src="./gifs/minecraft-enchanting-table.gif" alt="Minecraft Enchanting Table" width="200">
+  <img src="./gifs/minecraft-enchanting-table.gif" alt="Minecraft Enchanting Table" width="100">
 </div>
 
 ```python
