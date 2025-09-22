@@ -3,7 +3,7 @@
 
 <!-- Centered Personal Info -->
 <p align="center">
-  <h1 align="center">🧑🏻‍💻 Software Engineer <img src="./gifs/xbox.gif" alt="Xbox Gaming" width="40"></h1>
+  <h1 align="center">🧑🏻‍💻 Software Engineer</h1>
 
   <p align="center">
     📧 <a href="mailto:kamalnadykamal@gmail.com">kamalnadykamal@gmail.com</a> • 
@@ -21,6 +21,7 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/kamal-nady"><img src="./images/linkedin.svg" width="24"/></a>&nbsp;
     <a href="https://github.com/DandelionBold"><img src="./images/github.svg" width="24"/></a>
+    <img src="./gifs/xbox.gif" alt="Xbox Gaming" width="25">
   </p>
 </p>
 
