@@ -235,18 +235,22 @@
   <table>
     <tr>
       <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&title_color=f65ee0&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e"
-          alt="DandelionBold GitHub Stats"
-          height="155"
-        />
+        <a href="#-github-stats--activity">
+          <img
+            src="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&title_color=f65ee0&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e"
+            alt="DandelionBold GitHub Stats"
+            height="155"
+          />
+        </a>
       </td>
       <td>
-        <img
-          src="https://github-readme-streak-stats.herokuapp.com?user=DandelionBold&hide_border=true&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&background=0c002e&sideLabels=0CFFD2&dates=1495ff&fire=1495ff&currStreakLabel=0CFFD2&currStreakNum=0CFFD2"
-          alt="DandelionBold GitHub Streak"
-          height="155"
-        />
+        <a href="#-github-stats--activity">
+          <img
+            src="https://github-readme-streak-stats.herokuapp.com?user=DandelionBold&hide_border=true&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&background=0c002e&sideLabels=0CFFD2&dates=1495ff&fire=1495ff&currStreakLabel=0CFFD2&currStreakNum=0CFFD2"
+            alt="DandelionBold GitHub Streak"
+            height="155"
+          />
+        </a>
       </td>
     </tr>
   </table>
@@ -258,10 +262,13 @@
     Most Used Languages = based on file sizes.
     Top Languages by Repo = based on repo count.
   -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=compact&hide_border=true&bg_color=0c002e&title_color=f65ee0&text_color=0CFFD2&icon_color=1495ff&langs_count=10"
-    alt="Top Languages"
-  />
+
+  <a href="#-github-stats--activity">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=compact&hide_border=true&bg_color=0c002e&title_color=f65ee0&text_color=0CFFD2&icon_color=1495ff&langs_count=10"
+      alt="Top Languages"
+    />
+  </a>
 
 </div>
 <hr>
@@ -272,10 +279,12 @@
   
 <div align="center">
   <p align="center">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=DandelionBold&bg_color=0c002e&color=0CFFD2&line=f65ee0&point=1495ff&area=true&hide_border=true"
-      alt="Contribution Graph"
-    />
+    <a href="#-contribution-graph-activity-heatmap">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=DandelionBold&bg_color=0c002e&color=0CFFD2&line=f65ee0&point=1495ff&area=true&hide_border=true"
+        alt="Contribution Graph"
+      />
+    </a>
   </p>
 </div>
 <hr>
@@ -287,15 +296,25 @@
 <div align="center">
   <!-- Note: this generator doesn't accept per-color hex params; using closest theme -->
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DandelionBold&theme=tokyonight" alt="Contribution Summary" />
+    <a href="#-contribution-summary-cards">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DandelionBold&theme=tokyonight" alt="Contribution Summary" />
+    </a>
   </p>
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DandelionBold&theme=tokyonight" alt="Stats" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DandelionBold&theme=tokyonight&utcOffset=8" alt="Commits per Day" />
+    <a href="#-contribution-summary-cards">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DandelionBold&theme=tokyonight" alt="Stats" />
+    </a>
+    <a href="#-contribution-summary-cards">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DandelionBold&theme=tokyonight&utcOffset=8" alt="Commits per Day" />
+    </a>
   </p>
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DandelionBold&theme=tokyonight" alt="Repos per Language" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DandelionBold&theme=tokyonight" alt="Most Commit Language" />
+    <a href="#-contribution-summary-cards">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DandelionBold&theme=tokyonight" alt="Repos per Language" />
+    </a>
+    <a href="#-contribution-summary-cards">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DandelionBold&theme=tokyonight" alt="Most Commit Language" />
+    </a>
   </p>
 </div>
 <hr>
@@ -437,8 +456,8 @@ if __name__ == '__main__':
 <hr>
 
 <div align="center">
-  <p align="center"><b>✨ Random Quote</b></p>
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+  <p align="center" id="-random-quote"><b>✨ Random Quote</b></p>
+  <a href="#-random-quote">
     <img alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in&quoteCategory=programming?border=true">
   </a>
 </div>
