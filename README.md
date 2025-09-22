@@ -195,7 +195,8 @@
 </details>
 
 
-## <img src="./gifs/experience-bottle.gif" width="25px"> Experience & <img src="./gifs/minecraft-lectern.gif" width="25px"> Education
+<details closed>
+<summary align="center"><h2><img src="./gifs/experience-bottle.gif" width="25px"> Experience & <img src="./gifs/minecraft-lectern.gif" width="25px"> Education</h2></summary>
 
 <!-- Image floats to the right like coding animation -->
 <img align="right" alt="Experience & Education" width="300" src="./gifs/minecraft-lectern.gif">
@@ -221,6 +222,8 @@
 
 - Competitive Programming Experience
 - Continuous Learning & Fast Adaptation
+
+</details>
 
 
 <details open>
