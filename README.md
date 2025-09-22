@@ -196,6 +196,62 @@
 
 <hr>
 
+## <img src="./gifs/experience-bottle.gif" width="25px"> Experience
+
+<div align="center">
+  <img src="./gifs/experience-bottle.gif" alt="Experience Bottle" width="80">
+</div>
+
+### 💼 Business Software Development Engineer & Dedicated Support
+
+**IronLabs** • _Oct 2023 - Present_ • Alexandria, Egypt
+
+- **Software Development**: Develop and maintain business software solutions using C#.NET on DevExpress platform
+- **Database Management**: Work with Firebird, MSSql, MySql, PostgreSQL, and SQLite databases
+- **ERP Solutions**: Customize Perfecto ERP packages for financial management, supply chain, HR, and CRM
+- **Cross-Platform Development**: Implement applications using WinForms, MAUI, and Blazor
+- **Business Intelligence**: Create dashboards, KPIs, and reports for data-driven decision making
+- **Dedicated Support**: Provide remote system administration and troubleshooting support
+
+### 🎓 Adjunct Faculty Instructor
+
+**Arab Academy for Science, Technology & Maritime Transport** • _Sep 2023 - Present_ • Alexandria, Egypt
+
+- **Teaching**: Programming and computer science courses at AAST
+- **Curriculum Development**: Design practical exercises and real-world applications
+- **Student Guidance**: Mentor students through projects and assessments
+- **Skills Focus**: Problem-solving, technical instruction, and hands-on learning
+
+---
+
+## <img src="./gifs/minecraft-lectern.gif" width="25px"> Education & Learning
+
+<div align="center">
+  <img src="./gifs/minecraft-lectern.gif" alt="Minecraft Lectern" width="80">
+</div>
+
+### 🎓 Academic Background
+
+- **Bachelor of Computer Science** • Arab Academy for Science, Technology & Maritime Transport (2019-2023)
+- **Minor**: Software Engineering
+- **Location**: Alexandria, Egypt
+
+### 🏆 Achievements
+
+- **AAST Competitive Programming Contest (2020)**: Achieved 32nd place
+- **App Soft Training (2021-2022)**: Software developer training in .NET MVC
+- **Continuous Learning**: Fast learner with programming obsession 💻⚙️🚀
+
+### 🎯 Fields of Interest
+
+- Competitive Programming
+- Software Architecture
+- Machine Learning
+- IoT & Robotics
+- Business Intelligence
+
+<hr>
+
 
 <details open>
 <summary align="center"><h2>📊 GitHub Stats & Activity</h2></summary>
