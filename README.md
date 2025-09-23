@@ -9,9 +9,9 @@
   <p>
     📧 <a href="mailto:kamalnadykamal@gmail.com">kamalnadykamal@gmail.com</a> • 
     <a href="https://github.com/DandelionBold">
-      <img src="./gifs/location-pin-pointer.gif" alt="Location pin" height="20" />
+      <img src="./gifs/location-pin-pointer.gif" alt="Location pin" height="24" />
+      &nbsp;Alexandria, Egypt
     </a>
-    &nbsp;Alexandria, Egypt
   </p>
 
   <!-- 👀 Profile Views -->
