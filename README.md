@@ -84,6 +84,12 @@
   <a href="#-all-projects-"><img src="./gifs/coding.gif" alt="Minecraft Chest Opening" width="100"></a>
 </div>
 
+<!--
+- **Project A** — one-liner value. Stack: <tech>. [Repo](#) • [Live](#)
+- **Project B** — one-liner value. Stack: <tech>. [Repo](#) • [Demo GIF](#)
+- **Project C** — one-liner value. Stack: <tech>. [Repo](#)
+-->
+
 ### 🧠 CodeSpy (Graduation Project)
 - **Description:** Full LMS with integrated **code-plagiarism detection** across **127 programming languages**, built to help instructors manage classes and uphold academic integrity.
 - **Technologies:** HTML, CSS, JavaScript, **Python**, **Django**, **MySQL**
