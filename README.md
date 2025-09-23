@@ -7,8 +7,12 @@
 
   <p align="center">
     📧 <a href="mailto:kamalnadykamal@gmail.com">kamalnadykamal@gmail.com</a> • 
-    📍 Alexandria, Egypt
+    <a href="https://github.com/DandelionBold">
+      <img src="./gifs/location-pin-pointer.gif" width="14" alt="Location pin" />
+      &nbsp;Alexandria, Egypt
+    </a>
   </p>
+  
   <!-- 👀 Profile Views -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=DandelionBold&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
