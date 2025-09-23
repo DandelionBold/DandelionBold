@@ -8,7 +8,7 @@
 
   <p>
     📧 <a href="mailto:kamalnadykamal@gmail.com">kamalnadykamal@gmail.com</a> • 
-    <a href="https://maps.app.goo.gl/Lkm91N7a41cyADre8"> <img src="./gifs/location-pin-pointer.gif" alt="Location pin" height="35" /></a>
+    <a href="https://maps.app.goo.gl/Lkm91N7a41cyADre8"> <img src="./gifs/location-pin-pointer.gif" alt="Location pin" height="30" /></a>
     <a href="https://maps.app.goo.gl/Lkm91N7a41cyADre8">Alexandria, Egypt</a>
   </p>
 
