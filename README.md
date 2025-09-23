@@ -448,7 +448,7 @@ class GameEngine:
 
     def __init__(self):
         self.saveFiles = {
-            "Minecraft": {"mode": "Hardcore", "status": "Respawn disabled 💀"},
+            "Minecraft": {"mode": "Hardcore", "status": "Keep Inventory enabled 💀💩"},
             "Rocket League": {"rank": "Diamond", "status": "Chasing the ball instead of the rotation 🚗⚽"}
         }
 
