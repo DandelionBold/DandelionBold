@@ -2,29 +2,35 @@
 <!-- If you want the template Easy and fast to make, I generated it from https://leviarista.github.io/github-profile-header-generator/ -->
 
 <!-- Centered Personal Info -->
-<p align="center">
-  <h1 align="center">🧑🏻‍💻 Software Engineer</h1>
+<div align="center">
 
-  <p align="center">
+  <h1>🧑🏻‍💻 Software Engineer</h1>
+
+  <p>
     📧 <a href="mailto:kamalnadykamal@gmail.com">kamalnadykamal@gmail.com</a> • 
-    <a href="https://github.com/DandelionBold"> <img src="./gifs/location-pin-pointer.gif" width="18" alt="Location pin" /> Alexandria, Egypt</a>
+    <a href="https://github.com/DandelionBold">
+      <img src="./gifs/location-pin-pointer.gif" alt="Location pin" height="20" />
+    </a>
+    &nbsp;Alexandria, Egypt
   </p>
-  
+
   <!-- 👀 Profile Views -->
-  <p align="center">
+  <p>
     <img src="https://komarev.com/ghpvc/?username=DandelionBold&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
     &nbsp;&nbsp;
     <img src="https://img.shields.io/github/stars/DandelionBold?style=social" alt="GitHub stars" />
     &nbsp;&nbsp;
-    <img src="https://img.shields.io/github/followers/DandelionBold?style=social" />
+    <img src="https://img.shields.io/github/followers/DandelionBold?style=social" alt="GitHub followers" />
   </p>
-  <!-- <h3 align="center">ℹ️ About Me (<a href="./Kamal%20Nady%20Kamal%20CV.pdf" target="_blank">View My CV</a>)</h1> -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/kamal-nady"><img src="./images/linkedin.svg" width="24"/></a>&nbsp;
-    <a href="https://raw.githubusercontent.com/DandelionBold/DandelionBold/main/gifs/Ok-and.jpeg"><img src="./gifs/xbox.gif" width="24"/></a>
-    <a href="https://github.com/DandelionBold"><img src="./images/github.svg" width="24"/></a>
+
+  <p>
+    <a href="https://www.linkedin.com/in/kamal-nady"><img src="./images/linkedin.svg" width="24" alt="LinkedIn" /></a>&nbsp;
+    <a href="https://raw.githubusercontent.com/DandelionBold/DandelionBold/main/gifs/Ok-and.jpeg"><img src="./gifs/xbox.gif" width="24" alt="Xbox" /></a>&nbsp;
+    <a href="https://github.com/DandelionBold"><img src="./images/github.svg" width="24" alt="GitHub" /></a>
   </p>
-</p>
+
+</div>
+
 
 <!-- GitHub Snake -->
 <div align="center">
