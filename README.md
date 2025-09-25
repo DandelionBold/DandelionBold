@@ -65,7 +65,7 @@
 ---
 
 <!-- Image floats to the right -->
-<a href="#-projects"><img align="right" alt="Coding" width="50%" src="./gifs/coding-animation.gif"></a>
+<a href="#-projects"><img align="right" alt="Coding" width="400" src="./gifs/coding-animation.gif"></a>
 
 <!-- Centered heading -->
 <h2 align="center"><a href="#-projects"><img src="./gifs/rocket-emoji.gif" width="25px"></a> Projects</h2>
