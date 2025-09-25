@@ -215,7 +215,9 @@
 <summary align="center"><h2><a href="#-experience---education"><img src="./gifs/experience-bottle.gif" width="25px"></a> Experience & <a href="#-experience---education"><img src="./gifs/minecraft-lectern.gif" width="25px"></a> Education</h2></summary>
 
 <!-- Image floats to the right like coding animation -->
-<a href="#-experience---education"><img align="right" alt="Experience & Education" width="300" src="./gifs/minecraft-lectern.gif"></a>
+<a href="#-experience---education">
+  <img align="right" alt="Experience & Education" width="30%" src="./gifs/minecraft-lectern.gif">
+</a>
 
 ### 💼 Professional Experience
 
