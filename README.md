@@ -355,7 +355,7 @@
 <summary align="center"><h2><a href="#-about-me-"><img src="./gifs/pointing-left-emoji.gif" width="25px"></a> About me <a href="#-about-me-"><img src="./gifs/pointing-right-emoji.gif" width="25px"></a></h2></summary>
 
 <div align="center">
-    <a href="#-about-me-"><img src="./gifs/minecraft-enchanting-table_rearrange.gif" alt="Minecraft Enchanting Table" width="100"></a>
+    <a href="#-about-me-"><img src="./gifs/minecraft-enchanting-table_.gif" alt="Minecraft Enchanting Table" width="100"></a>
 </div>
 
 ```python
