@@ -39,8 +39,8 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23bc05ff
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23bc05ff
+            dist/github-contribution-grid-snake.svg?color_snake=%236dff05
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%236dff05
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
