@@ -266,7 +266,7 @@
           <picture>
             <!-- Dark mode -->
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&title_color=bc05ff&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e" />
-            <!-- Light mode -->
+            <!-- Light mode (your latest table) -->
             <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&bg_color=f6f8fa&title_color=bc05ff&text_color=10B981&icon_color=1495ff" />
             <!-- Fallback = dark mode -->
             <img alt="DandelionBold GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&title_color=bc05ff&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e" height="155" />
@@ -278,8 +278,8 @@
           <picture>
             <!-- Dark mode -->
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=DandelionBold&hide_border=true&ring=bc05ff&sideNums=bc05ff&stroke=1495ff&background=0c002e&sideLabels=0CFFD2&dates=1495ff&fire=1495ff&currStreakLabel=0CFFD2&currStreakNum=0CFFD2" />
-            <!-- Light mode -->
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=DandelionBold&hide_border=true&background=f6f8fa&ring=bc05ff&sideNums=bc05ff&stroke=1f2328&sideLabels=10B981&dates=16ffb1&fire=1495ff&currStreakLabel=10B981&currStreakNum=10B981" />
+            <!-- Light mode (your latest table) -->
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=DandelionBold&hide_border=true&background=f6f8fa&ring=bc05ff&sideNums=bc05ff&stroke=1f2328&sideLabels=10B981&dates=1495ff&fire=1495ff&currStreakLabel=10B981&currStreakNum=10B981" />
             <!-- Fallback = dark mode -->
             <img alt="DandelionBold GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=DandelionBold&hide_border=true&ring=bc05ff&sideNums=bc05ff&stroke=1495ff&background=0c002e&sideLabels=0CFFD2&dates=1495ff&fire=1495ff&currStreakLabel=0CFFD2&currStreakNum=0CFFD2" height="155" />
           </picture>
@@ -300,7 +300,7 @@
     <picture>
       <!-- Dark mode -->
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=compact&hide_border=true&bg_color=0c002e&title_color=bc05ff&text_color=0CFFD2&icon_color=1495ff&langs_count=10" />
-      <!-- Light mode -->
+      <!-- Light mode (your latest table) -->
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=compact&hide_border=true&bg_color=f6f8fa&title_color=bc05ff&text_color=10B981&icon_color=1495ff&langs_count=10" />
       <!-- Fallback = dark mode -->
       <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=compact&hide_border=true&bg_color=0c002e&title_color=bc05ff&text_color=0CFFD2&icon_color=1495ff&langs_count=10" />
@@ -310,6 +310,7 @@
 </div>
 <hr>
 </details>
+
 
 
 
