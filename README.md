@@ -538,8 +538,13 @@ if __name__ == '__main__':
 <div align="center">
   <p align="center" id="-random-quote"><b>✨ Random Quote</b></p>
   <a href="#-random-quote">
-    <img alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in&quoteCategory=programming?border=true">
+    <picture>
+      <!-- Dark mode -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in&quoteCategory=programming&border=true" />
+      <!-- Light mode -->
+      <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&animation=grow_out_in&quoteCategory=programming&border=true" />
+      <!-- Fallback = dark mode -->
+      <img alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in&quoteCategory=programming&border=true" />
+    </picture>
   </a>
 </div>
-
-
