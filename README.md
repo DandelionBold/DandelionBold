@@ -343,28 +343,56 @@
   <!-- Note: this generator doesn't accept per-color hex params; using closest theme -->
   <p align="center">
     <a href="#-contribution-summary-cards">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DandelionBold&theme=tokyonight" alt="Contribution Summary" />
+      <picture>
+        <!-- Dark mode -->
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DandelionBold&theme=tokyonight" />
+        <!-- Light mode (green/blue-friendly) -->
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DandelionBold&theme=vue" />
+        <!-- Fallback = dark mode -->
+        <img alt="Contribution Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DandelionBold&theme=tokyonight" />
+      </picture>
     </a>
   </p>
+
   <p align="center">
     <a href="#-contribution-summary-cards">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DandelionBold&theme=tokyonight" alt="Stats" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DandelionBold&theme=tokyonight" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DandelionBold&theme=vue" />
+        <img alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DandelionBold&theme=tokyonight" />
+      </picture>
     </a>
+
     <a href="#-contribution-summary-cards">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DandelionBold&theme=tokyonight&utcOffset=8" alt="Commits per Day" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DandelionBold&theme=tokyonight&utcOffset=8" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DandelionBold&theme=vue&utcOffset=8" />
+        <img alt="Commits per Day" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DandelionBold&theme=tokyonight&utcOffset=8" />
+      </picture>
     </a>
   </p>
+
   <p align="center">
     <a href="#-contribution-summary-cards">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DandelionBold&theme=tokyonight" alt="Repos per Language" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DandelionBold&theme=tokyonight" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DandelionBold&theme=vue" />
+        <img alt="Repos per Language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DandelionBold&theme=tokyonight" />
+      </picture>
     </a>
+
     <a href="#-contribution-summary-cards">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DandelionBold&theme=tokyonight" alt="Most Commit Language" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DandelionBold&theme=tokyonight" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DandelionBold&theme=vue" />
+        <img alt="Most Commit Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DandelionBold&theme=tokyonight" />
+      </picture>
     </a>
   </p>
 </div>
 <hr>
 </details>
+
 
 <details open>
 <summary align="center"><h2><a href="#-github-trophies"><img src="./gifs/trophy-emoji.gif" width="25px"></a> GitHub Trophies</h2></summary>
