@@ -255,40 +255,60 @@
 
 <details open>
 <summary align="center"><h2>📊 GitHub Stats & Activity</h2></summary>
+  
 <div align="center">
+  
+  <!-- Stats + Streak (side-by-side) -->
   <table>
     <tr>
       <td>
         <a href="#-github-stats--activity">
           <picture>
+            <!-- Dark mode -->
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&title_color=bc05ff&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e" />
+            <!-- Light mode  (mapped accents: green + blue; try green=#10B981, or #059669 if you want punchier) -->
             <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&bg_color=f6f8fa&title_color=bc05ff&text_color=1f2328&icon_color=1495ff" />
-            <img alt="DandelionBold GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&bg_color=f6f8fa&title_color=bc05ff&text_color=1f2328&icon_color=1495ff" height="155" />
+            <!-- Fallback = dark mode (as requested) -->
+            <img alt="DandelionBold GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&title_color=bc05ff&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e" height="155" />
           </picture>
         </a>
       </td>
       <td>
         <a href="#-github-stats--activity">
           <picture>
+            <!-- Dark mode -->
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=DandelionBold&hide_border=true&ring=bc05ff&sideNums=bc05ff&stroke=1495ff&background=0c002e&sideLabels=0CFFD2&dates=1495ff&fire=1495ff&currStreakLabel=0CFFD2&currStreakNum=0CFFD2" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=DandelionBold&hide_border=true&background=f6f8fa&ring=bc05ff&sideNums=bc05ff&stroke=1495ff&sideLabels=1f2328&dates=57606a&fire=1495ff&currStreakLabel=1f2328&currStreakNum=1f2328" />
-            <img alt="DandelionBold GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=DandelionBold&hide_border=true&background=f6f8fa&ring=bc05ff&sideNums=bc05ff&stroke=1495ff&sideLabels=1f2328&dates=57606a&fire=1495ff&currStreakLabel=1f2328&currStreakNum=1f2328" height="155" />
+            <!-- Light mode  (green + blue mapping; green drives the ring/numbers, blue drives stroke/fire) -->
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=DandelionBold&hide_border=true&background=f6f8fa&ring=10B981&sideNums=10B981&stroke=1495ff&sideLabels=1f2328&dates=57606a&fire=1495ff&currStreakLabel=1f2328&currStreakNum=1f2328" />
+            <!-- Fallback = dark mode (as requested) -->
+            <img alt="DandelionBold GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=DandelionBold&hide_border=true&ring=bc05ff&sideNums=bc05ff&stroke=1495ff&background=0c002e&sideLabels=0CFFD2&dates=1495ff&fire=1495ff&currStreakLabel=0CFFD2&currStreakNum=0CFFD2" height="155" />
           </picture>
         </a>
       </td>
     </tr>
   </table>
 
+  <!-- Top Languages -->
+  <!--
+    Most Used Languages = based on file sizes.
+    Top Languages by Repo = based on repo count.
+  -->
+
   <a href="#-github-stats--activity">
     <picture>
+      <!-- Dark mode -->
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=compact&hide_border=true&bg_color=0c002e&title_color=bc05ff&text_color=0CFFD2&icon_color=1495ff&langs_count=10" />
+      <!-- Light mode  (green + blue mapping; blue used for icons, title keeps #bc05ff) -->
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=compact&hide_border=true&bg_color=f6f8fa&title_color=bc05ff&text_color=1f2328&icon_color=1495ff&langs_count=10" />
-      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=compact&hide_border=true&bg_color=f6f8fa&title_color=bc05ff&text_color=1f2328&icon_color=1495ff&langs_count=10" />
+      <!-- Fallback = dark mode (as requested) -->
+      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=compact&hide_border=true&bg_color=0c002e&title_color=bc05ff&text_color=0CFFD2&icon_color=1495ff&langs_count=10" />
     </picture>
   </a>
+
 </div>
 <hr>
 </details>
+
 
 
 <details open>
