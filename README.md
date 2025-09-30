@@ -540,11 +540,21 @@ if __name__ == '__main__':
   <a href="#-random-quote">
     <picture>
       <!-- Dark mode -->
-      <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in&quoteCategory=programming&border=true" />
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in&quoteCategory=programming&border=true&quoteColor=0CFFD2&authorColor=ffffff&backgroundColor=0d1117&symbolColor=bc05ff"
+      />
       <!-- Light mode -->
-      <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&animation=grow_out_in&quoteCategory=programming&border=true" />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&animation=grow_out_in&quoteCategory=programming&border=true&quoteColor=10B981&authorColor=1495ff&backgroundColor=ffffff&symbolColor=bc05ff"
+      />
       <!-- Fallback = dark mode -->
-      <img alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in&quoteCategory=programming&border=true" />
+      <img
+        alt="Quotes"
+        src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in&quoteCategory=programming&border=true&quoteColor=0CFFD2&authorColor=ffffff&backgroundColor=0d1117&symbolColor=bc05ff"
+      />
     </picture>
   </a>
 </div>
+
