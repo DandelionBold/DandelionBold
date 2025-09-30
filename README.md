@@ -5,7 +5,7 @@
     <!-- Light mode -->
     <source media="(prefers-color-scheme: light)" srcset="images/banner/github-header-banner-white.png" />
     <!-- Fallback (shows in older browsers/renderers) -->
-    <img alt="Header" src="images/banner/github-header-banner-white.png" />
+    <img alt="Header" src="images/banner/github-header-banner-dark.png" />
   </picture>
 </a>
 <!-- If you want the template Easy and fast to make, I generated it from https://leviarista.github.io/github-profile-header-generator/ -->
@@ -255,51 +255,56 @@
 
 <details open>
 <summary align="center"><h2>📊 GitHub Stats & Activity</h2></summary>
-  
+
 <div align="center">
-  
+
   <!-- Stats + Streak (side-by-side) -->
   <table>
     <tr>
       <td>
         <a href="#-github-stats--activity">
-          <img
-            src="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&title_color=f65ee0&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e"
-            alt="DandelionBold GitHub Stats"
-            height="155"
-          />
+          <picture>
+            <!-- Dark mode -->
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&title_color=f65ee0&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e" />
+            <!-- Light mode  (Option A: Bright on Light) -->
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&bg_color=f6f8fa&title_color=f65ee0&text_color=1f2328&icon_color=1495ff" />
+            <!-- Fallback -->
+            <img alt="DandelionBold GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&bg_color=f6f8fa&title_color=f65ee0&text_color=1f2328&icon_color=1495ff" height="155" />
+          </picture>
         </a>
       </td>
+
       <td>
         <a href="#-github-stats--activity">
-          <img
-            src="https://github-readme-streak-stats.herokuapp.com?user=DandelionBold&hide_border=true&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&background=0c002e&sideLabels=0CFFD2&dates=1495ff&fire=1495ff&currStreakLabel=0CFFD2&currStreakNum=0CFFD2"
-            alt="DandelionBold GitHub Streak"
-            height="155"
-          />
+          <picture>
+            <!-- Dark mode -->
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=DandelionBold&hide_border=true&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&background=0c002e&sideLabels=0CFFD2&dates=1495ff&fire=1495ff&currStreakLabel=0CFFD2&currStreakNum=0CFFD2" />
+            <!-- Light mode  (Option A: Bright on Light) -->
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=DandelionBold&hide_border=true&background=f6f8fa&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&sideLabels=1f2328&dates=57606a&fire=1495ff&currStreakLabel=1f2328&currStreakNum=1f2328" />
+            <!-- Fallback -->
+            <img alt="DandelionBold GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=DandelionBold&hide_border=true&background=f6f8fa&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&sideLabels=1f2328&dates=57606a&fire=1495ff&currStreakLabel=1f2328&currStreakNum=1f2328" height="155" />
+          </picture>
         </a>
       </td>
     </tr>
   </table>
 
-
-
   <!-- Top Languages -->
-  <!--
-    Most Used Languages = based on file sizes.
-    Top Languages by Repo = based on repo count.
-  -->
-
   <a href="#-github-stats--activity">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=compact&hide_border=true&bg_color=0c002e&title_color=f65ee0&text_color=0CFFD2&icon_color=1495ff&langs_count=10"
-      alt="Top Languages"
-    />
+    <picture>
+      <!-- Dark mode -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=compact&hide_border=true&bg_color=0c002e&title_color=f65ee0&text_color=0CFFD2&icon_color=1495ff&langs_count=10" />
+      <!-- Light mode  (Option A: Bright on Light) -->
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=compact&hide_border=true&bg_color=f6f8fa&title_color=f65ee0&text_color=1f2328&icon_color=1495ff&langs_count=10" />
+      <!-- Fallback -->
+      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=compact&hide_border=true&bg_color=f6f8fa&title_color=f65ee0&text_color=1f2328&icon_color=1495ff&langs_count=10" />
+    </picture>
   </a>
 
 </div>
 <hr>
 </details>
+
 
 <details open>
 <summary align="center"><h2>📈 Contribution Graph (activity heatmap)</h2></summary>
