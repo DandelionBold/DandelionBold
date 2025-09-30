@@ -255,52 +255,37 @@
 
 <details open>
 <summary align="center"><h2>📊 GitHub Stats & Activity</h2></summary>
-
 <div align="center">
-
-  <!-- Stats + Streak (side-by-side) -->
   <table>
     <tr>
       <td>
         <a href="#-github-stats--activity">
           <picture>
-            <!-- Dark mode -->
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&title_color=f65ee0&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e" />
-            <!-- Light mode  (Option A: Bright on Light) -->
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&bg_color=f6f8fa&title_color=f65ee0&text_color=1f2328&icon_color=1495ff" />
-            <!-- Fallback -->
-            <img alt="DandelionBold GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&bg_color=f6f8fa&title_color=f65ee0&text_color=1f2328&icon_color=1495ff" height="155" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&title_color=bc05ff&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&bg_color=f6f8fa&title_color=bc05ff&text_color=1f2328&icon_color=1495ff" />
+            <img alt="DandelionBold GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&bg_color=f6f8fa&title_color=bc05ff&text_color=1f2328&icon_color=1495ff" height="155" />
           </picture>
         </a>
       </td>
-
       <td>
         <a href="#-github-stats--activity">
           <picture>
-            <!-- Dark mode -->
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=DandelionBold&hide_border=true&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&background=0c002e&sideLabels=0CFFD2&dates=1495ff&fire=1495ff&currStreakLabel=0CFFD2&currStreakNum=0CFFD2" />
-            <!-- Light mode  (Option A: Bright on Light) -->
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=DandelionBold&hide_border=true&background=f6f8fa&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&sideLabels=1f2328&dates=57606a&fire=1495ff&currStreakLabel=1f2328&currStreakNum=1f2328" />
-            <!-- Fallback -->
-            <img alt="DandelionBold GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=DandelionBold&hide_border=true&background=f6f8fa&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&sideLabels=1f2328&dates=57606a&fire=1495ff&currStreakLabel=1f2328&currStreakNum=1f2328" height="155" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=DandelionBold&hide_border=true&ring=bc05ff&sideNums=bc05ff&stroke=1495ff&background=0c002e&sideLabels=0CFFD2&dates=1495ff&fire=1495ff&currStreakLabel=0CFFD2&currStreakNum=0CFFD2" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=DandelionBold&hide_border=true&background=f6f8fa&ring=bc05ff&sideNums=bc05ff&stroke=1495ff&sideLabels=1f2328&dates=57606a&fire=1495ff&currStreakLabel=1f2328&currStreakNum=1f2328" />
+            <img alt="DandelionBold GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=DandelionBold&hide_border=true&background=f6f8fa&ring=bc05ff&sideNums=bc05ff&stroke=1495ff&sideLabels=1f2328&dates=57606a&fire=1495ff&currStreakLabel=1f2328&currStreakNum=1f2328" height="155" />
           </picture>
         </a>
       </td>
     </tr>
   </table>
 
-  <!-- Top Languages -->
   <a href="#-github-stats--activity">
     <picture>
-      <!-- Dark mode -->
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=compact&hide_border=true&bg_color=0c002e&title_color=f65ee0&text_color=0CFFD2&icon_color=1495ff&langs_count=10" />
-      <!-- Light mode  (Option A: Bright on Light) -->
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=compact&hide_border=true&bg_color=f6f8fa&title_color=f65ee0&text_color=1f2328&icon_color=1495ff&langs_count=10" />
-      <!-- Fallback -->
-      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=compact&hide_border=true&bg_color=f6f8fa&title_color=f65ee0&text_color=1f2328&icon_color=1495ff&langs_count=10" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=compact&hide_border=true&bg_color=0c002e&title_color=bc05ff&text_color=0CFFD2&icon_color=1495ff&langs_count=10" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=compact&hide_border=true&bg_color=f6f8fa&title_color=bc05ff&text_color=1f2328&icon_color=1495ff&langs_count=10" />
+      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=compact&hide_border=true&bg_color=f6f8fa&title_color=bc05ff&text_color=1f2328&icon_color=1495ff&langs_count=10" />
     </picture>
   </a>
-
 </div>
 <hr>
 </details>
