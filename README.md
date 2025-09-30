@@ -395,22 +395,22 @@
 <div align="center">
 
   <!-- Note: trophies also doesn't support custom hex; 'dracula' is the closest look -->
-  <!-- Light-mode pick = 'juicyfresh' (true light theme with green accents). 'algolia' is dark-toned, so it won't look light. -->
+  <!-- Light-mode pick = 'algolia' (blue-forward, good on white). Try 'juicyfresh' if you prefer stronger green. -->
+  <!-- OVERRIDE per user: use 'aura' for dark mode and 'flat' for light mode -->
   <a href="#-github-trophies">
     <picture>
       <!-- Dark mode -->
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=DandelionBold&theme=dracula&margin-w=15&margin-h=15" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=DandelionBold&theme=aura&margin-w=15&margin-h=15" />
       <!-- Light mode -->
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=DandelionBold&theme=juicyfresh&margin-w=15&margin-h=15" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=DandelionBold&theme=flat&margin-w=15&margin-h=15" />
       <!-- Fallback = dark mode -->
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=DandelionBold&theme=dracula&margin-w=15&margin-h=15" />
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=DandelionBold&theme=aura&margin-w=15&margin-h=15" />
     </picture>
   </a>
 
 </div>
 <hr>
 </details>
-
 
 
 <details closed>
