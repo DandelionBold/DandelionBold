@@ -321,15 +321,20 @@
 <div align="center">
   <p align="center">
     <a href="#-contribution-graph-activity-heatmap">
-      <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=DandelionBold&bg_color=0c002e&color=0CFFD2&line=f65ee0&point=1495ff&area=true&hide_border=true"
-        alt="Contribution Graph"
-      />
+      <picture>
+        <!-- Dark mode -->
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=DandelionBold&bg_color=0c002e&color=0CFFD2&line=bc05ff&point=1495ff&area=true&hide_border=true" />
+        <!-- Light mode (same scheme mapped) -->
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=DandelionBold&bg_color=f6f8fa&color=10B981&line=bc05ff&point=1495ff&area=true&hide_border=true" />
+        <!-- Fallback = dark mode -->
+        <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=DandelionBold&bg_color=0c002e&color=0CFFD2&line=bc05ff&point=1495ff&area=true&hide_border=true" />
+      </picture>
     </a>
   </p>
 </div>
 <hr>
 </details>
+
 
 <details open>
 <summary align="center"><h2>🧾 Contribution Summary Cards</h2></summary>
