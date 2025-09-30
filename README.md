@@ -395,12 +395,22 @@
 <div align="center">
 
   <!-- Note: trophies also doesn't support custom hex; 'dracula' is the closest look -->
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=DandelionBold&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </p>
+  <!-- Light-mode pick = 'algolia' (blue-forward, good on white). Try 'juicyfresh' if you prefer stronger green. -->
+  <a href="#-github-trophies">
+    <picture>
+      <!-- Dark mode -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=DandelionBold&theme=dracula&margin-w=15&margin-h=15" />
+      <!-- Light mode -->
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=DandelionBold&theme=algolia&margin-w=15&margin-h=15" />
+      <!-- Fallback = dark mode -->
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=DandelionBold&theme=dracula&margin-w=15&margin-h=15" />
+    </picture>
+  </a>
+
 </div>
 <hr>
 </details>
+
 
 <details closed>
 <summary align="center"><h2><a href="#-about-me-"><img src="./gifs/pointing-left-emoji.gif" width="25px"></a> About me <a href="#-about-me-"><img src="./gifs/pointing-right-emoji.gif" width="25px"></a></h2></summary>
