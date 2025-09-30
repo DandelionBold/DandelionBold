@@ -547,7 +547,7 @@ if __name__ == '__main__':
       <!-- Light mode -->
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in&quoteCategory=programming&quoteColor=10B981&authorColor=1495ff&backgroundColor=ffffff&symbolColor=bc05ff"
+        srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&animation=grow_out_in&quoteCategory=programming&quoteColor=10B981&authorColor=1495ff&backgroundColor=ffffff&symbolColor=bc05ff"
       />
       <!-- Fallback = dark mode -->
       <img
