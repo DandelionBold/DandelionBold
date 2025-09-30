@@ -1,4 +1,13 @@
-[![Header](./github-header-image.png)](https://github.com/DandelionBold)
+<a href="https://github.com/DandelionBold">
+  <picture>
+    <!-- Dark mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="images/banner/github-header-banner-dark.png" />
+    <!-- Light mode -->
+    <source media="(prefers-color-scheme: light)" srcset="images/banner/github-header-banner-white.png" />
+    <!-- Fallback (shows in older browsers/renderers) -->
+    <img alt="Header" src="images/banner/github-header-banner-white.png" />
+  </picture>
+</a>
 <!-- If you want the template Easy and fast to make, I generated it from https://leviarista.github.io/github-profile-header-generator/ -->
 
 <!-- Centered Personal Info -->
