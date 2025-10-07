@@ -575,35 +575,35 @@ if __name__ == '__main__':
   </a>
 </div>
 
-<details>
+<details closed>
   <summary align="center">🎮 A hidden riddle awaits...</summary>
     <div align="center">
       
     ```python
-    > **Two hunters share one field.**  
-    > One hunts with hunger, one glides with grace.  
-    > They never meet, yet share a single pulse.  
-    >  
-    > When one feasts, the other dreams.  
-    > When one awakens, the other dissolves.  
-    > The path endures, but the player changes.  
-    >  
-    > One waits for silence to move,  
-    > the other for motion to begin.  
-    > Their chase never ends,  
-    > yet never truly starts.  
-    >  
-    > Each appears when the other fades,  
-    > traded by the unseen hand  
-    > that turns the world inside out.  
-    >  
-    > The change of light,  
-    > the change of sight.  
-    >
-    > ---
-    >
-    > <sub><em>Perception is a switch disguised as preference.</em></sub>  
-    > <sub>🎁 *You’ve reached the end — now find what hides between worlds.*</sub>
+    **Two hunters share one field.**  
+    One hunts with hunger, one glides with grace.  
+    They never meet, yet share a single pulse.  
+     
+    When one feasts, the other dreams.  
+    When one awakens, the other dissolves.  
+    The path endures, but the player changes.  
+     
+    One waits for silence to move,  
+    the other for motion to begin.  
+    Their chase never ends,  
+    yet never truly starts.  
+     
+    Each appears when the other fades,  
+    traded by the unseen hand  
+    that turns the world inside out.  
+     
+    The change of light,  
+    the change of sight.  
+    
+    ---
+    
+    <sub><em>Perception is a switch disguised as preference.</em></sub>  
+    <sub>🎁 *You’ve reached the end — now find what hides between worlds.*</sub>
     ````
     
   </div>
