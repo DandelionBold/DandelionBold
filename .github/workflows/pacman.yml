@@ -20,7 +20,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          game_speed: 10
+          game_speed: 1
           player_style: opportunistic
 
       # push the content of <build_dir> to a branch
