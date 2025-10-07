@@ -13,13 +13,16 @@ on:
     branches:
       - main
 
+# The sequence of runs in this workflow:
 jobs:
-    generate:
-    permissions:
-        contents: write
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     timeout-minutes: 5
-
+    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - uses: abozanona/pacman-contribution-graph@main
         id: pacman-gif
@@ -30,7 +33,7 @@ jobs:
                 dist/pacman-contribution-graph-dark.svg
         env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-			
+
       - run: git status
 	  
       - uses: crazy-max/ghaction-github-pages@v3.1.0
