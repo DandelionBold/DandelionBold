@@ -601,9 +601,9 @@ if __name__ == '__main__':
   the change of sight.  
   ```
 
-  </div>
   <hr>
   <sub><em>Perception is a switch disguised as preference.</em></sub>  
   <sub>🎁 *You’ve reached the end — now find what hides between worlds.*</sub>  
+  </div>
 </details>
 
