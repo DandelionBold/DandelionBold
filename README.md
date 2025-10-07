@@ -579,7 +579,8 @@ if __name__ == '__main__':
   <summary align="center">🎮 A hidden riddle awaits...</summary>
     <div align="center">
       
-    ```python
+    ```riddle
+    
     **Two hunters share one field.**  
     One hunts with hunger, one glides with grace.  
     They never meet, yet share a single pulse.  
@@ -600,12 +601,11 @@ if __name__ == '__main__':
     The change of light,  
     the change of sight.  
     
-    ---
     
-    <sub><em>Perception is a switch disguised as preference.</em></sub>  
-    <sub>🎁 *You’ve reached the end — now find what hides between worlds.*</sub>
-    ````
-    
+    ```
+  <hr>
+  <sub><em>Perception is a switch disguised as preference.</em></sub>  
+  <sub>🎁 *You’ve reached the end — now find what hides between worlds.*</sub>  
   </div>
 </details>
 
