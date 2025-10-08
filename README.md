@@ -576,7 +576,7 @@ if __name__ == '__main__':
 </div>
 
 <details closed>
-  <summary align="center">🎮 A hidden riddle awaits… where Easter egg**S** hide.</summary>
+  <summary align="center">🎮 A hidden riddle awaits… where Easter egg<b>S</b> hide.</summary>
   <div align="center">
         
   ```riddle
