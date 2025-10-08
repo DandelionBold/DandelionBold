@@ -579,27 +579,25 @@ if __name__ == '__main__':
   <summary align="center">🎮 A hidden riddle awaits… where Easter egg<b>S</b> hide.</summary>
   <div align="center">
         
-  ```riddle
-  **Two hunters share one field.**  
-  One hunts with hunger, one glides with grace.  
-  They never meet, yet share a single pulse.  
-   
-  When one feasts, the other dreams.  
-  When one awakens, the other dissolves.  
-  The path endures, but the player changes.  
-   
-  One waits for silence to move,  
-  the other for motion to begin.  
-  Their chase never ends,  
-  yet never truly starts.  
-   
-  Each appears when the other fades,  
-  traded by the unseen hand  
-  that turns the world inside out.  
-   
-  The change of light,  
-  the change of sight.  
-  ```
+  <strong>Two hunters share one field.</strong><br>
+  One hunts with hunger, one glides with grace.<br>
+  They never meet, yet share a single pulse.<br>
+  <br>
+  When one feasts, the other dreams.<br>
+  When one awakens, the other dissolves.<br>
+  The path endures, but the player changes.<br>
+  <br>
+  One waits for silence to move,<br>
+  the other for motion to begin.<br>
+  Their chase never ends,<br>
+  yet never truly starts.<br>
+  <br>
+  Each appears when the other fades,<br>
+  traded by the unseen hand<br>
+  that turns the world inside out.<br>
+  <br>
+  The change of light,<br>
+  the change of sight.
 
   <hr>
   <sub><em>Perception is a switch disguised as preference.</em></sub>  
