@@ -10,7 +10,6 @@
 </a>
 <!-- If you want the template Easy and fast to make, I generated it from https://leviarista.github.io/github-profile-header-generator/ -->
 
-<img stc="https://yip.su/ihavetoknowsorry" alt="">
 
 <!-- Centered Personal Info -->
 <div align="center">
