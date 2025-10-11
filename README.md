@@ -462,167 +462,92 @@ class Life(Creativity):
         # Ultra-sensitive top-secret life password (shh 🤫)
         self.password = os.getenv("KAMAL_SUPER_SECRET_PASSWORD", "1234")  # default for me 😉
 
-        # 🧠 Technical Skills & Tools (granular, documented)
-        self.tech_stack = {
+        # 🧠 Technical Skills & Tools — aligned to your badge table columns
+        self.technical_skills = {
             # 💻 Programming Languages
-            "languages": {
-                # ⚙️ Compiled / JVM / CLR
-                "compiled": ["C", "C++", "Java", "C#", "Kotlin"],
-                # 🐍 Scripting & Dynamic
-                "scripting_dynamic": ["Python", "PHP", "JavaScript", "R", "MATLAB"],
-                # λ Functional
-                "functional": ["Haskell"],
-                # 📦 Ecosystem / Reproducible Builds
-                "ecosystem_tooling": ["Nix"],
-            },
+            "programming_languages": [
+                "Java", "C#", "Python", "C", "C++", "PHP",
+                "JavaScript", "Kotlin", "R", "Haskell", "MATLAB", "Nix"
+            ],
         
             # 🧩 Frameworks
-            "frameworks": {
-                # 🌐 Backend Web
-                "backend_web": ["Spring", "Flask", "Django", ".NET"],
-                # 🪟 Desktop UI
-                "desktop_ui": [".NET MAUI", "WinForms"],
-                # 🔮 Web UI (C#/WASM)
-                "web_ui": ["Blazor"],
-            },
+            "frameworks": [
+                "Spring", "Flask", "Django", ".NET", "MAUI", "WinForms", "Blazor"
+            ],
         
             # 📚 Libraries
-            "libraries": {
-                # 🤖 ML / AI
-                "ml_ai": ["TensorFlow", "scikit-learn"],
-                # 👁️‍🗨️ CV & Graphics
-                "cv_graphics": ["OpenCV", "THREE.JS", "OpenGL", "WebGL"],
-                # 🧱 UI Component Suites
-                "ui_components": ["DevExpress"],
-            },
+            "libraries": [
+                "TensorFlow", "scikit-learn", "OpenCV", "THREE.JS", "OpenGL", "WebGL", "DevExpress"
+            ],
         
-            # 🛠️ Platforms & Targets
-            "platforms_targets": {
-                # 📱 Mobile & Embedded
-                "mobile_embedded": ["Android", "Arduino"],
-                # 🕸️ Web Runtime
-                "web_runtime": ["WebAssembly"],
-                # 🖥️ Desktop / Game Engine
-                "desktop_server": ["Linux", "Unity"],
-            },
+            # 🛠️ Platforms
+            "platforms": [
+                "Android", "Arduino", "Linux", "WebAssembly", "Unity"
+            ],
         
-            # 🗄️ Datastores
-            "datastores": {
-                # 🧾 Relational SQL
-                "relational": ["MySQL", "MariaDB", "SQL Server", "Postgres", "SQLite"],
-                # ⚡ In-Memory / NoSQL
-                "nosql_inmemory": ["Redis"],
-            },
+            # 🗄️ Databases
+            "databases": [
+                "MySQL", "SQLite", "SQL Server", "MariaDB", "Postgres", "Redis"
+            ],
         
-            # 🧾 Markup & Serialization
-            "markup_serialization": {
-                # 📄 Documents
-                "document": ["Markdown", "LaTeX"],
-                # 🌍 Web & Data Exchange
-                "web": ["HTML5", "XML", "JSON"],
-            },
+            # 🧾 Markup
+            "markup": [
+                "Markdown", "HTML5", "XML", "JSON", "LaTeX"
+            ],
         
-            # 🎨 Styling & UI Systems
-            "styling_ui": {
-                # 🧵 Core CSS
-                "css_core": ["CSS", "Sass"],
-                # 🧰 Utility-first
-                "utility_frameworks": ["Tailwind"],
-                # 🧩 Component Frameworks
-                "component_frameworks": ["Bootstrap", "Material Design", "Ant Design"],
-                # 🟪 Blazor Component Suites
-                "blazor_component_suites": ["Syncfusion", "Radzen Blazor", "MudBlazor"],
-            },
+            # 🎨 Styling
+            "styling": [
+                "CSS", "Sass", "Tailwind", "Bootstrap", "Material Design",
+                "Ant Design", "Syncfusion", "Radzen Blazor", "MudBlazor"
+            ],
         
-            # 🧰 IDEs & Editors
-            "ides_editors": {
-                # 🟣 Microsoft
-                "microsoft": ["Visual Studio", "VS Code"],
-                # 🖤 JetBrains Family
-                "jetbrains": ["JetBrains", "PyCharm"],
-                # ☕ Java IDEs
-                "java_based": ["Eclipse", "NetBeans"],
-                # 🧪 Data / Notebook
-                "mobile_data": ["Android Studio", "Jupyter", "Colab"],
-                # ☁️ Cloud / CLI
-                "cloud_web_cli": ["Replit", "Vim"],
-                # 🪶 Lightweight
-                "lightweight": ["Notepad++", "Notepad", "Python IDLE"],
-                # 🤖 AI-Assisted Coding
-                "ai_coding": ["Cursor"],
-            },
+            # 🧰 IDEs
+            "ides": [
+                "Visual Studio", "VS Code", "Cursor", "JetBrains", "PyCharm",
+                "Eclipse", "NetBeans", "Android Studio", "Jupyter", "Colab",
+                "Replit", "Vim", "Notepad++", "Notepad", "Python IDLE"
+            ],
+        
+            # 📦 Package Manager
+            "package_manager": [
+                "Chocolatey", "winget", "APT", "Nix", "Nixpkgs", "NuGet", "npm", "pip"
+            ],
+        
+            # 🛎️ Tools
+            "tools": [
+                "Postman", "Swagger", "Jira", "Slack", "Trello", "Notion", "Obsidian"
+            ],
+        
+            # 🚢 DevOps
+            "devops": [
+                "Git", "GitHub", "Docker", "Kubernetes", "GitHub Actions",
+                "Azure", "Azure DevOps", "Nginx", "Bash"
+            ],
         
             # 🏗️ Architecture
-            "architecture": {
-                # 🧱 Service Styles
-                "service_styles": ["Microservices", "Monolithic"],
-                # 🔗 APIs
-                "api": ["REST APIs"],
-                # 🔐 Auth & Security
-                "auth_security": ["JWT"],
-            },
+            "architecture": [
+                "REST APIs", "Microservices", "Monolithic", "JWT"
+            ],
         
-            # 🎛️ Design & Creative
-            "design_tools": {
-                # 🎨 UI/UX & 3D
-                "ui_ux_3d": ["Figma", "Blender"],
-            },
+            # 🎛️ Design
+            "design": [
+                "Figma", "Blender"
+            ],
         
-            # 🤖 AI Agents & LLM Tools
-            "ai_agents": {
-                # ☁️ Hosted LLMs
-                "hosted_llms": ["ChatGPT", "Claude", "Google Gemini", "Mistral AI", "Perplexity"],
-                # 🖥️ Local Runtimes
-                "local_runtimes": ["Ollama"],
-                # 🔎 Research / Meta
-                "meta_tools": ["Deepseek"],
-            },
+            # 🤖 AI Agents
+            "ai_agents": [
+                "ChatGPT", "Claude", "Deepseek", "Google Gemini", "Mistral AI", "Ollama", "Perplexity"
+            ],
         
             # 🌐 Browsers
-            "browsers": {
-                # 🚀 Mainstream
-                "mainstream": ["Google Chrome", "Firefox", "Opera"],
-                # 🛡️ Privacy-Focused
-                "privacy_security": ["Brave", "Tor", "DuckDuckGo"],
-            },
+            "browsers": [
+                "Brave", "Firefox", "Google Chrome", "Opera", "Tor", "DuckDuckGo"
+            ],
         
             # 🧮 Operating Systems
-            "operating_systems": {
-                # 🖥️ Desktop / Server
-                "desktop_server": ["Windows", "Ubuntu", "Linux Mint", "NixOS"],
-                # 🛡️ Security / Pentest
-                "security": ["Kali Linux"],
-                # 📱 Mobile
-                "mobile": ["Android"],
-            },
-        
-            # 🛠️ Tooling & DevOps
-            "tooling": {
-                # 📦 Package Managers
-                "package_managers": {
-                    # 🖥️ OS-Level
-                    "os_level": ["Chocolatey", "winget", "APT", "Nix", "Nixpkgs"],
-                    # 📚 Language-Level
-                    "language_level": ["NuGet", "npm", "pip"],
-                },
-                # 🤝 Collaboration & PM
-                "collab_pm": ["Jira", "Trello", "Slack", "Notion", "Obsidian"],
-                # 📜 API & Docs
-                "api_docs": ["Postman", "Swagger"],
-                # 🚢 DevOps & Cloud
-                "devops": {
-                    # 🔁 Version Control
-                    "vcs": ["Git", "GitHub"],
-                    # 📦 Containers & Orchestration
-                    "containers_orchestration": ["Docker", "Kubernetes"],
-                    # 🔧 CI/CD
-                    "ci_cd": ["GitHub Actions"],
-                    # ☁️ Cloud & ALM
-                    "cloud": ["Azure", "Azure DevOps"],
-                    # 🌐 Runtime / Scripting
-                    "networking_runtime": ["Nginx", "Bash"],
-                },
-            },
+            "operating_systems": [
+                "Windows", "Kali Linux", "NixOS", "Ubuntu", "Android", "Linux Mint"
+            ],
         }
 
         # 📜 The lore
