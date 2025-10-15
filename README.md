@@ -306,6 +306,10 @@
   <!-- Stats + Streak (side-by-side) -->
   <table>
     <tr>
+      <!--
+      Use %2C instead of ,
+      in picture
+      -->
       <td>
         <a href="#-github-stats--activity">
           <picture>
