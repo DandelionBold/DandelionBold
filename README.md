@@ -291,17 +291,17 @@
             <!-- Dark mode -->
             <source
               media="(prefers-color-scheme: dark)"
-              srcset="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&title_color=bc05ff&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e&include_all_commits=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&card_width=560&cache_seconds=21600"
+              srcset="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&title_color=bc05ff&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e&commits_year=2024&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&card_width=560&cache_seconds=21600"
             />
             <!-- Light mode -->
             <source
               media="(prefers-color-scheme: light)"
-              srcset="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&bg_color=f6f8fa&title_color=bc05ff&text_color=10B981&icon_color=1495ff&include_all_commits=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&card_width=560&cache_seconds=21600"
+              srcset="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&bg_color=f6f8fa&title_color=bc05ff&text_color=10B981&icon_color=1495ff&commits_year=2024&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&card_width=560&cache_seconds=21600"
             />
             <!-- Fallback = dark mode -->
             <img
-              alt="DandelionBold GitHub Stats (All-time + Extended)"
-              src="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&title_color=bc05ff&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=560&cache_seconds=21600"
+              alt="DandelionBold GitHub Stats"
+              src="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&title_color=bc05ff&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e&commits_year=2024&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=560&cache_seconds=21600"
             />
           </picture>
         </a>
