@@ -283,11 +283,17 @@
         <a href="#-github-stats--activity">
           <picture>
             <!-- Dark mode -->
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&title_color=bc05ff&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e" />
+            <source
+              media="(prefers-color-scheme: dark)"
+              srcset="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&title_color=bc05ff&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
             <!-- Light mode (your latest table) -->
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&bg_color=f6f8fa&title_color=bc05ff&text_color=10B981&icon_color=1495ff" />
+            <source
+              media="(prefers-color-scheme: light)"
+              srcset="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&bg_color=f6f8fa&title_color=bc05ff&text_color=10B981&icon_color=1495ff&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
             <!-- Fallback = dark mode -->
-            <img alt="DandelionBold GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&title_color=bc05ff&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e"/>
+            <img
+              alt="DandelionBold GitHub Stats"
+              src="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&title_color=bc05ff&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
           </picture>
         </a>
       </td>
