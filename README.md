@@ -270,10 +270,12 @@
 
 </details>
 
+<!--
 <img
   alt="DandelionBold GitHub Stats (All-time + Extended)"
   src="https://github-readme-stats.vercel.app/api?username=DandelionBold&show_icons=true&hide_border=true&title_color=bc05ff&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cache_seconds=21600"
 />
+-->
 
 <details open>
 <summary align="center"><h2>📊 GitHub Stats & Activity</h2></summary>
