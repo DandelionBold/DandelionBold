@@ -306,23 +306,31 @@
           </picture>
         </a>
       </td>
+      <!--
+      d&layout=donut
+      layout=compact — classic bars (what you just asked for).
+      (default) — same as compact; you can omit layout and you’ll still get bars.
+      layout=donut — ring (donut) chart.
+      layout=donut-vertical — donut with labels stacked vertically (good when there are many langs).
+      layout=pie — filled pie chart.
+      -->
       <td>
         <a href="#-github-stats--activity">
           <picture>
             <!-- Dark mode -->
             <source
               media="(prefers-color-scheme: dark)"
-              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=compact&hide_border=true&bg_color=0c002e&title_color=bc05ff&text_color=0CFFD2&icon_color=1495ff&langs_count=10&cache_seconds=21600"
+              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=pie&hide_border=true&bg_color=0c002e&title_color=bc05ff&text_color=0CFFD2&icon_color=1495ff&langs_count=10&cache_seconds=21600"
             />
             <!-- Light mode -->
             <source
               media="(prefers-color-scheme: light)"
-              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=compact&hide_border=true&bg_color=f6f8fa&title_color=bc05ff&text_color=10B981&icon_color=1495ff&langs_count=10&cache_seconds=21600"
+              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=pie&hide_border=true&bg_color=f6f8fa&title_color=bc05ff&text_color=10B981&icon_color=1495ff&langs_count=10&cache_seconds=21600"
             />
             <!-- Fallback = dark -->
             <img
               alt="Top Languages (Bars)"
-              src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=compact&hide_border=true&bg_color=0c002e&title_color=bc05ff&text_color=0CFFD2&icon_color=1495ff&langs_count=10&cache_seconds=21600"
+              src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=pie&hide_border=true&bg_color=0c002e&title_color=bc05ff&text_color=0CFFD2&icon_color=1495ff&langs_count=10&cache_seconds=21600"
             />
           </picture>
         </a>
