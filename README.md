@@ -281,6 +281,27 @@
 <summary align="center"><h2>📊 GitHub Stats & Activity</h2></summary>
   
 <div align="center">
+  
+  <!-- Top Languages -->
+  <!--
+    Most Used Languages = based on file sizes.
+    Top Languages by Repo = based on repo count.
+  -->
+
+  <a href="#-github-stats--activity">
+    <picture>
+      <!-- Dark mode -->
+      <source media="(prefers-color-scheme: dark)"
+              srcset="https://streak-stats.demolab.com/?user=DandelionBold&hide_border=true&ring=bc05ff&sideNums=bc05ff&stroke=1495ff&background=0c002e&sideLabels=0CFFD2&dates=1495ff&fire=ff8c00&currStreakLabel=0CFFD2&currStreakNum=0CFFD2" />
+      <!-- Light mode -->
+      <source media="(prefers-color-scheme: light)"
+              srcset="https://streak-stats.demolab.com/?user=DandelionBold&hide_border=true&background=f6f8fa&ring=bc05ff&sideNums=bc05ff&stroke=1f2328&sideLabels=10B981&dates=1495ff&fire=ff8c00&currStreakLabel=10B981&currStreakNum=10B981" />
+      <!-- Fallback = dark mode -->
+      <img alt="DandelionBold GitHub Streak"
+           src="https://streak-stats.demolab.com/?user=DandelionBold&hide_border=true&ring=bc05ff&sideNums=bc05ff&stroke=1495ff&background=0c002e&sideLabels=0CFFD2&dates=1495ff&fire=ff8c00&currStreakLabel=0CFFD2&currStreakNum=0CFFD2" />
+    </picture>
+  </a>
+
 
   <!-- Stats + Streak (side-by-side) -->
   <table>
@@ -337,27 +358,6 @@
       </td>
     </tr>
   </table>
-  
-  <!-- Top Languages -->
-  <!--
-    Most Used Languages = based on file sizes.
-    Top Languages by Repo = based on repo count.
-  -->
-
-  <a href="#-github-stats--activity">
-    <picture>
-      <!-- Dark mode -->
-      <source media="(prefers-color-scheme: dark)"
-              srcset="https://streak-stats.demolab.com/?user=DandelionBold&hide_border=true&ring=bc05ff&sideNums=bc05ff&stroke=1495ff&background=0c002e&sideLabels=0CFFD2&dates=1495ff&fire=ff8c00&currStreakLabel=0CFFD2&currStreakNum=0CFFD2" />
-      <!-- Light mode -->
-      <source media="(prefers-color-scheme: light)"
-              srcset="https://streak-stats.demolab.com/?user=DandelionBold&hide_border=true&background=f6f8fa&ring=bc05ff&sideNums=bc05ff&stroke=1f2328&sideLabels=10B981&dates=1495ff&fire=ff8c00&currStreakLabel=10B981&currStreakNum=10B981" />
-      <!-- Fallback = dark mode -->
-      <img alt="DandelionBold GitHub Streak"
-           src="https://streak-stats.demolab.com/?user=DandelionBold&hide_border=true&ring=bc05ff&sideNums=bc05ff&stroke=1495ff&background=0c002e&sideLabels=0CFFD2&dates=1495ff&fire=ff8c00&currStreakLabel=0CFFD2&currStreakNum=0CFFD2" />
-    </picture>
-  </a>
-
 </div>
 <hr>
 </details>
