@@ -309,6 +309,8 @@
       <!--
       Use %2C instead of ,
       in picture
+      Because <source> inside <picture> uses the srcset attribute, and srcset has special parsing rules
+      So any comma in the URL is treated as a separator, not as part of the query string.
       -->
       <td>
         <a href="#-github-stats--activity">
