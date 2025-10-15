@@ -286,6 +286,11 @@
   <!--
     Most Used Languages = based on file sizes.
     Top Languages by Repo = based on repo count.
+    change the domain
+    from 
+    https://github-readme-stats.vercel.app/
+    to
+    https://streak-stats.demolab.com/
   -->
 
   <a href="#-github-stats--activity">
