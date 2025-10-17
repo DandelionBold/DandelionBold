@@ -650,6 +650,9 @@ if __name__ == '__main__':
     fun = GameEngine()
     fun.start("League Of Legends")
 ```
+<div align="center">
+  <a href="https://raw.githubusercontent.com/DandelionBold/DandelionBold/main/gifs/Rickroleo.gif">🕵️‍♂️ More secret things about me</a>
+</div>
 
 </details>
 
