@@ -32,9 +32,9 @@
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/kamal-nady" target="_blank"><img src="./images/linkedin.svg" width="24" alt="LinkedIn" /></a>&nbsp;
-    <a href="https://raw.githubusercontent.com/DandelionBold/DandelionBold/main/gifs/Ok-and.jpeg" target="_blank"><img src="./gifs/xbox.gif" width="24" alt="Xbox" /></a>&nbsp;
-    <a href="https://github.com/DandelionBold" target="_blank"><img src="./images/github.svg" width="24" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/kamal-nady"><img src="./images/linkedin.svg" width="24" alt="LinkedIn" /></a>&nbsp;
+    <a href="https://raw.githubusercontent.com/DandelionBold/DandelionBold/main/gifs/Ok-and.jpeg"><img src="./gifs/xbox.gif" width="24" alt="Xbox" /></a>&nbsp;
+    <a href="https://github.com/DandelionBold"><img src="./images/github.svg" width="24" alt="GitHub" /></a>
   </p>
 
 </div>
