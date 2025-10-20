@@ -352,17 +352,17 @@
             <!-- Dark mode -->
             <source
               media="(prefers-color-scheme: dark)"
-              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=pie&hide_border=true&bg_color=0c002e&title_color=bc05ff&text_color=0CFFD2&icon_color=1495ff&langs_count=10"
+              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=pie&hide_border=true&bg_color=0c002e&title_color=bc05ff&text_color=0CFFD2&icon_color=1495ff&langs_count=20"
             />
             <!-- Light mode -->
             <source
               media="(prefers-color-scheme: light)"
-              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=pie&hide_border=true&bg_color=f6f8fa&title_color=bc05ff&text_color=10B981&icon_color=1495ff&langs_count=10"
+              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=pie&hide_border=true&bg_color=f6f8fa&title_color=bc05ff&text_color=10B981&icon_color=1495ff&langs_count=20"
             />
             <!-- Fallback = dark -->
             <img
               alt="Top Languages (Bars)"
-              src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=pie&hide_border=true&bg_color=0c002e&title_color=bc05ff&text_color=0CFFD2&icon_color=1495ff&langs_count=10"
+              src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionBold&layout=pie&hide_border=true&bg_color=0c002e&title_color=bc05ff&text_color=0CFFD2&icon_color=1495ff&langs_count=20"
             />
           </picture>
         </a>
