@@ -19,8 +19,8 @@
 
   <p>
     📧 <a href="mailto:kamalnadykamal@gmail.com">kamalnadykamal@gmail.com</a> • 
-    <a href="https://maps.app.goo.gl/Lkm91N7a41cyADre8"> <img src="./gifs/location-pin-pointer.gif" alt="Location pin" height="17" /></a>
-    <a href="https://maps.app.goo.gl/Lkm91N7a41cyADre8">Alexandria, Egypt</a>
+    <a href="https://maps.app.goo.gl/rxSRiHy9tuGqy1YD8"> <img src="./gifs/location-pin-pointer.gif" alt="Location pin" height="17" /></a>
+    <a href="https://maps.app.goo.gl/rxSRiHy9tuGqy1YD8">Cairo, Egypt</a>
   </p>
 
   <!-- 👀 Profile Views -->
