@@ -102,6 +102,7 @@
   <a href="#-projects"><img src="./gifs/minecraft-crafting-table.gif" alt="Minecraft Crafting Table" width="80"></a>
 </div>
 
+- 🍗 **[Hungerbar](https://github.com/DandelionBold/hungerbar)** – Claude Code status line as a Minecraft HUD  
 - 🧠 **CodeSpy (Graduation Project)** – LMS + Code Plagiarism Detection  
 - 🏫 **Saint-Stephen School Management System**  
 - 🤖 **Rubik’s Cube Solver Robot**  
@@ -122,6 +123,22 @@
 - **Project B** — one-liner value. Stack: <tech>. [Repo](#) • [Demo GIF](#)
 - **Project C** — one-liner value. Stack: <tech>. [Repo](#)
 -->
+
+### 🍗 Hungerbar
+<a href="https://github.com/DandelionBold/hungerbar"><img src="https://raw.githubusercontent.com/DandelionBold/hungerbar/main/docs/media/hero.gif" alt="Hungerbar: the Minecraft HUD in Claude Code's status line" width="100%"></a>
+
+- **Description:** A **Claude Code status line** that draws your usage limits as **Minecraft's HUD** in the terminal: the hearts drain with the 5-hour limit, the hunger bar with the week, the XP bar fills with the context, and a boss bar shows Fable's weekly limit.
+- **Technologies:** **TypeScript**, **Node.js**, esbuild, Git, GitHub CLI, GitHub Actions
+- **Features:**
+  - Hearts, hunger, XP, air bubbles and a hotbar with the thinking effort, your prompts, the cost and the last two hours of git as terrain.
+  - The git state on the branch, plus the pull request and its checks.
+  - A bed when you are idle and phantoms when a session runs long.
+  - Nothing uses the network while it draws, and the features that do stay off until you say yes.
+  - One JavaScript file with no runtime dependencies, 505 tests and CI on Windows.
+- **Install:** tell your AI `Install Hungerbar for me: https://github.com/DandelionBold/hungerbar`, or follow the [README](https://github.com/DandelionBold/hungerbar#readme).
+- **Status:** Released, [v1.0.0](https://github.com/DandelionBold/hungerbar/releases/tag/v1.0.0)
+
+---
 
 ### 🧠 CodeSpy (Graduation Project)
 - **Description:** Full LMS with integrated **code-plagiarism detection** across **127 programming languages**, built to help instructors manage classes and uphold academic integrity.
